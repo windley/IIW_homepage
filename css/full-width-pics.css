@@ -23,6 +23,13 @@ body {
 	padding: 100px 0;
 }
 
+.register-here {
+	background: url("../img/register_here.png") no-repeat center center;
+	background-size: auto;
+	text-align: center;
+	padding: 20px 0;
+}
+
 .logo-wrapper {
 	display: inline-block;
 }
