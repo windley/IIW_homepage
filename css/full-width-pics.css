@@ -10,14 +10,14 @@ body {
 }
 
 .full-width-image-2 {
-	background: url("../img/IIW_banner_2.png") no-repeat center center;
+	background: url("../img/IIW_banner_2.jpg") no-repeat center center;
 	background-size: cover;
 	text-align: center;
 	padding: 100px 0;
 }
 
 .full-width-image-3 {
-	background: url("../img/IIW_banner_3.png") no-repeat center center;
+	background: url("../img/IIW_banner_3.jpg") no-repeat center center;
 	background-size: cover;
 	text-align: center;
 	padding: 100px 0;
