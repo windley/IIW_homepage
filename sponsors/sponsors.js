@@ -35,7 +35,20 @@ var sponsors = [
   "logo": "sponsors/logos/forgerock.png",
   "what": "Reception",
   "color": "tile-carrot"
+ },
+ {"name": "Yubico",
+  "url": "http://www.yubico.com/",
+  "logo": "sponsors/logos/yubico.png",
+  "what": "Break",
+  "color": "tile-teal"
+ },
+    {"name": "IoPT Consulting",
+  "url": "https://ioptconsulting.com/",
+  "logo": "sponsors/logos/iopt.png",
+  "what": "Gifting",
+  "color": "tile-blue"
  }
+
 
 /*-----
 ,
