@@ -1,44 +1,9 @@
 
 var sponsors = [
- {"name": "Neustar",
-  "url": "http://www.neustar.com/",
-  "logo": "sponsors/logos/neustar.png",
-  "what": "Barista"
- },
- {"name": "Microsoft",
-  "url": "http://www.microsoft.com/",
-  "logo": "sponsors/logos/MSFT.png",
-  "what": "Conference Dinner"
- },
- {"name": "Google",
-  "url": "http://www.google.com/",
-  "logo": "sponsors/logos/GOOG.jpg",
-  "what": "Lunch & Doc Center"
- },
- {"name": "Gigya",
-  "url": "http://www.gigya.com/",
-  "logo": "sponsors/logos/gigya.jpg",
-  "what": "Morning Breaks"
- },
- {"name": "Salesforce",
-  "url": "http://www.salesforce.com",
-  "logo": "sponsors/logos/salesforce.png",
-  "what": "Lunch"
- },
- {"name": "ForgeRock",
-  "url": "http://www.forgerock.com",
-  "logo": "sponsors/logos/forgerock.png",
-  "what": "Reception"
- },
- {"name": "Yubico",
-  "url": "http://www.yubico.com/",
-  "logo": "sponsors/logos/yubico.png",
-  "what": "Break"
- },
- {"name": "IoPT Consulting",
-  "url": "https://ioptconsulting.com/",
-  "logo": "sponsors/logos/iopt.png",
-  "what": "Gifting"
+ {"name": "Nexus Group",
+  "url": "https://www.nexusgroup.com/",
+  "logo": "sponsors/logos/nexus.png",
+  "what": "Tuesday Reception"
  }
 
 
