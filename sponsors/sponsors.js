@@ -2,7 +2,7 @@
 var sponsors = [
  {"name": "Nexus Group",
   "url": "https://www.nexusgroup.com/",
-  "logo": "sponsors/logos/nexus.png",
+  "logo": "sponsors/logos/nexus.jpeg",
   "what": "Tuesday Reception"
  }
 
