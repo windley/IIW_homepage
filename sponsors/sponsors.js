@@ -32,12 +32,12 @@ var sponsors = [
  },
  {"name": "NetIQ",
   "url": "https://www.netiq.com/",
-  "logo": "sponsors/logos/netiq.jpeg",
+  "logo": "sponsors/logos/netiq.png",
   "what": "Afternoon Break and Open Space Gifting"
  },
  {"name": "Yubico",
   "url": "https://www.yubico.com/",
-  "logo": "sponsors/logos/youbico.png",
+  "logo": "sponsors/logos/yubico.png",
   "what": "Afternoon Break"
  }
 
