@@ -1,10 +1,46 @@
 
 var sponsors = [
+ {"name": "Microsoft",
+  "url": "http://www.microsoft.com",
+  "logo": "sponsors/logos/MSFT.png",
+  "what": "Conference Dinner"
+ },
+ {"name": "Google",
+  "url": "http://www.google.com",
+  "logo": "sponsors/logos/GOOG.jpg",
+  "what": "Lunch and Documentation Center"
+ },
+ {"name": "Gigya",
+  "url": "http://www.gigya.com",
+  "logo": "sponsors/logos/gigya.jpg",
+  "what": "Conference Breakfasts"
+ },
+ // {"name": "Neustar",
+ //  "url": "http://www.neustar.com",
+ //  "logo": "sponsors/logos/neustar.png",
+ //  "what": "Barista"
+ // },
+ {"name": "ForgeRock",
+  "url": "https://www.forgerock.com/",
+  "logo": "sponsors/logos/forgerock.png",
+  "what": "Tuesday Reception"
+ },
  {"name": "Nexus Group",
   "url": "https://www.nexusgroup.com/",
   "logo": "sponsors/logos/nexus.jpeg",
   "what": "Tuesday Reception"
+ },
+ {"name": "NetIQ",
+  "url": "https://www.netiq.com/",
+  "logo": "sponsors/logos/netiq.jpeg",
+  "what": "Afternoon Break and Open Space Gifting"
+ },
+ {"name": "Yubico",
+  "url": "https://www.yubico.com/",
+  "logo": "sponsors/logos/youbico.png",
+  "what": "Afternoon Break"
  }
+
 
 
 /*-----
