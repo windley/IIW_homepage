@@ -23,7 +23,7 @@ var sponsors = [
  {"name": "ForgeRock",
   "url": "https://www.forgerock.com/",
   "logo": "sponsors/logos/forgerock.png",
-  "what": "Tuesday Reception"
+  "what": "Conference Reception"
  },
  {"name": "Nexus Group",
   "url": "https://www.nexusgroup.com/",
