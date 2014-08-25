@@ -36,7 +36,7 @@ var sponsors = [
   "what": "Afternoon Break and Open Space Gifting"
  },
  {"name": "Yubico",
-  "url": "https://www.yubico.com/",
+  "url": "https://www.yubico.com/", 
   "logo": "sponsors/logos/yubico.png",
   "what": "Afternoon Break"
  },
