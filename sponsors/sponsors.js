@@ -39,6 +39,11 @@ var sponsors = [
   "url": "https://www.yubico.com/",
   "logo": "sponsors/logos/yubico.png",
   "what": "Afternoon Break"
+ },
+ {"name": "Mozilla Foundation",
+  "url": "https://www.mozilla.org",
+  "logo": "sponsors/logos/mozilla_foundation.png",
+  "what": "Afternoon Break"
  }
 
 
