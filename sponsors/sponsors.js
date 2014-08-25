@@ -15,11 +15,11 @@ var sponsors = [
   "logo": "sponsors/logos/gigya.jpg",
   "what": "Conference Breakfasts"
  },
- // {"name": "Neustar",
- //  "url": "http://www.neustar.com",
- //  "logo": "sponsors/logos/neustar.png",
- //  "what": "Barista"
- // },
+ {"name": "Neustar",
+  "url": "http://www.neustar.com",
+  "logo": "sponsors/logos/neustar.png",
+  "what": "Barista"
+ },
  {"name": "ForgeRock",
   "url": "https://www.forgerock.com/",
   "logo": "sponsors/logos/forgerock.png",
