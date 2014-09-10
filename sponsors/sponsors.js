@@ -20,6 +20,11 @@ var sponsors = [
   "logo": "sponsors/logos/neustar.png",
   "what": "Barista"
  },
+ {"name": "Qredo",
+  "url": "http://www.qredo.com",
+  "logo": "sponsors/logos/Qredo.png",
+  "what": "BBQ Lunch"
+ },
  {"name": "ForgeRock",
   "url": "https://www.forgerock.com/",
   "logo": "sponsors/logos/forgerock.png",
