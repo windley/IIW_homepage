@@ -47,7 +47,7 @@ var sponsors = [
  },
  {"name": "Mozilla Foundation",
   "url": "https://www.mozilla.org",
-  "logo": "sponsors/logos/mozilla_foundation.png",
+  "logo": "sponsors/logos/mozilla_wordmark.png",
   "what": "Afternoon Break"
  }
 
