@@ -51,7 +51,7 @@ var sponsors = [
   "what": "Afternoon Break"
  },
  {"name": "OASIS ID Trust",
-  "url": "https://www.oasis.org",
+  "url": "http://www.oasis-idtrust.org/",
   "logo": "sponsors/logos/idtrust-logo.png",
   "what": "Documentation Center"
  }
