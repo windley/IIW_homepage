@@ -49,6 +49,11 @@ var sponsors = [
   "url": "https://www.mozilla.org",
   "logo": "sponsors/logos/mozilla_wordmark.png",
   "what": "Afternoon Break"
+ },
+ {"name": "OASIS ID Trust",
+  "url": "https://www.oasis.org",
+  "logo": "sponsors/logos/idtrust-logo.png",
+  "what": "Documentation Center"
  }
 
 
