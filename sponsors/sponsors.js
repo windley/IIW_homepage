@@ -1,5 +1,7 @@
 
-var sponsors = [
+var sponsors = [];
+
+var sponsors_old = [
  {"name": "Microsoft",
   "url": "http://www.microsoft.com",
   "logo": "sponsors/logos/MSFT.png",
