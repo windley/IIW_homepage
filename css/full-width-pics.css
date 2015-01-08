@@ -62,9 +62,9 @@ body {
 .thumbnail.tile h2{
     font-size:1.75em;
     position: absolute; 
-    bottom: 0;
-    left:0;
-    right:0;
+    bottom: 10px;
+    left:0px;
+    right:0px;
     margin-left: auto;
     margin-right: auto;
 }
