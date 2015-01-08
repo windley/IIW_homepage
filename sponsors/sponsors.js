@@ -1,12 +1,18 @@
 
-var sponsors = [];
-
-var sponsors_old = [
+var sponsors = [
  {"name": "Microsoft",
   "url": "http://www.microsoft.com",
   "logo": "sponsors/logos/MSFT.png",
   "what": "Conference Dinner"
  },
+ {"name": "Nexus Group",
+  "url": "https://www.nexusgroup.com/",
+  "logo": "sponsors/logos/nexus.jpeg",
+  "what": "Tuesday Reception"
+ }
+];
+
+var sponsors_old = [
  {"name": "Google",
   "url": "http://www.google.com",
   "logo": "sponsors/logos/GOOG.jpg",
