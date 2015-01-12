@@ -9,6 +9,11 @@ var sponsors = [
   "url": "https://www.nexusgroup.com/",
   "logo": "sponsors/logos/nexus.jpeg",
   "what": "Tuesday Reception"
+ },
+ {"name": "Yubico",
+  "url": "https://www.yubico.com/", 
+  "logo": "sponsors/logos/yubico.png",
+  "what": "Afternoon Break"
  }
 ];
 
