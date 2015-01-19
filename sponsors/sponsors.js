@@ -5,6 +5,11 @@ var sponsors = [
   "logo": "sponsors/logos/MSFT.png",
   "what": "Conference Dinner"
  },
+ {"name": "ForgeRock",
+  "url": "https://www.forgerock.com/",
+  "logo": "sponsors/logos/forgerock.png",
+  "what": "Conference Projectors"
+ },
  {"name": "Nexus Group",
   "url": "https://www.nexusgroup.com/",
   "logo": "sponsors/logos/nexus.jpeg",
