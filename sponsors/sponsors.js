@@ -5,6 +5,21 @@ var sponsors = [
   "logo": "sponsors/logos/MSFT.png",
   "what": "Conference Dinner"
  },
+ {"name": "Google",
+  "url": "http://www.google.com",
+  "logo": "sponsors/logos/GOOG.jpg",
+  "what": "Lunch and Documentation Center"
+ },
+ {"name": "Mozilla Foundation",
+  "url": "https://www.mozilla.org",
+  "logo": "sponsors/logos/mozilla_wordmark.png",
+  "what": "Afternoon Break"
+ },
+ {"name": "NetIQ",
+  "url": "https://www.netiq.com/",
+  "logo": "sponsors/logos/netiq.png",
+  "what": "BBQ Lunch"
+ },
  {"name": "ForgeRock",
   "url": "https://www.forgerock.com/",
   "logo": "sponsors/logos/forgerock.png",
@@ -23,11 +38,6 @@ var sponsors = [
 ];
 
 var sponsors_old = [
- {"name": "Google",
-  "url": "http://www.google.com",
-  "logo": "sponsors/logos/GOOG.jpg",
-  "what": "Lunch and Documentation Center"
- },
  {"name": "Gigya",
   "url": "http://www.gigya.com",
   "logo": "sponsors/logos/gigya.jpg",
@@ -53,19 +63,9 @@ var sponsors_old = [
   "logo": "sponsors/logos/nexus.jpeg",
   "what": "Tuesday Reception"
  },
- {"name": "NetIQ",
-  "url": "https://www.netiq.com/",
-  "logo": "sponsors/logos/netiq.png",
-  "what": "Afternoon Break and Open Space Gifting"
- },
  {"name": "Yubico",
   "url": "https://www.yubico.com/", 
   "logo": "sponsors/logos/yubico.png",
-  "what": "Afternoon Break"
- },
- {"name": "Mozilla Foundation",
-  "url": "https://www.mozilla.org",
-  "logo": "sponsors/logos/mozilla_wordmark.png",
   "what": "Afternoon Break"
  },
  {"name": "OASIS ID Trust",
