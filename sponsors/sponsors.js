@@ -15,15 +15,15 @@ var sponsors = [
   "logo": "sponsors/logos/mozilla_wordmark.png",
   "what": "Barista"
  },
- {"name": "NetIQ",
-  "url": "https://www.netiq.com/",
-  "logo": "sponsors/logos/netiq.png",
-  "what": "BBQ Lunch"
- },
  {"name": "Gigya",
   "url": "http://www.gigya.com",
   "logo": "sponsors/logos/gigya.jpg",
   "what": "Conference Breakfasts"
+ },
+ {"name": "NetIQ",
+  "url": "https://www.netiq.com/",
+  "logo": "sponsors/logos/netiq.png",
+  "what": "BBQ Lunch"
  },
  {"name": "ForgeRock",
   "url": "https://www.forgerock.com/",
