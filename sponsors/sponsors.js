@@ -8,7 +8,7 @@ var sponsors = [
  {"name": "Google",
   "url": "http://www.google.com",
   "logo": "sponsors/logos/GOOG.jpg",
-  "what": "Lunch and Documentation Center"
+  "what": "Lunch and Proceedings"
  },
  {"name": "Mozilla Foundation",
   "url": "https://www.mozilla.org",
