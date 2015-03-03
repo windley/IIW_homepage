@@ -62,12 +62,12 @@ body {
 .thumbnail.tile h2{
     font-size:1.75em;
     position: absolute; 
-    /* bottom: 10px; */
+    bottom: 10px;
     /* left:0px; */
     /* right:0px; */
-    /* margin-left: auto; */
-    /* margin-right: auto; */
-    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 6em
 }
 
 .thumbnail.tile img{
