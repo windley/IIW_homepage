@@ -8,12 +8,17 @@ var sponsors = [
  {"name": "Google",
   "url": "http://www.google.com",
   "logo": "sponsors/logos/GOOG.jpg",
-  "what": "Lunch and Documentation Center"
+  "what": "Lunch and Proceedings"
  },
  {"name": "Mozilla Foundation",
   "url": "https://www.mozilla.org",
   "logo": "sponsors/logos/mozilla_wordmark.png",
-  "what": "Afternoon Break"
+  "what": "Barista"
+ },
+ {"name": "Gigya",
+  "url": "http://www.gigya.com",
+  "logo": "sponsors/logos/gigya.jpg",
+  "what": "Conference Breakfasts"
  },
  {"name": "NetIQ",
   "url": "https://www.netiq.com/",
@@ -38,11 +43,6 @@ var sponsors = [
 ];
 
 var sponsors_old = [
- {"name": "Gigya",
-  "url": "http://www.gigya.com",
-  "logo": "sponsors/logos/gigya.jpg",
-  "what": "Conference Breakfasts"
- },
  {"name": "Neustar",
   "url": "http://www.neustar.com",
   "logo": "sponsors/logos/neustar.png",
