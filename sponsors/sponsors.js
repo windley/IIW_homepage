@@ -30,15 +30,15 @@ var sponsors = [
   "logo": "sponsors/logos/vmware.png",
   "what": "Indian Lunch"
  },
- {"name": "ForgeRock",
-  "url": "https://www.forgerock.com/",
-  "logo": "sponsors/logos/forgerock.png",
-  "what": "Conference Projectors"
- },
  {"name": "Janrain",
   "url": "https://www.janrain.com/",
   "logo": "sponsors/logos/janrain.png",
   "what": "Conference Reception"
+ },
+ {"name": "ForgeRock",
+  "url": "https://www.forgerock.com/",
+  "logo": "sponsors/logos/forgerock.png",
+  "what": "Conference Projectors"
  },
  {"name": "Nexus Group",
   "url": "https://www.nexusgroup.com/",
