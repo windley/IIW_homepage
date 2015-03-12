@@ -78,17 +78,6 @@ footer {
 	margin: 50px 0;
 }
 
-@media (max-width: 768px) {
-
-.section-heading {
-	font-size: 2em;
-}
-
-.section {
-	padding-top: 25px;
-	padding-bottom: 25px;
-}
-
 .arrowNav {background:none;position:absolute;z-index10;right:0px;}
 .arrowNav a {display:block;width:50px;height:50px;text-indent:-9999em;margin-top:20px;}
 
@@ -96,6 +85,19 @@ footer {
 .arrowNav a.arrowDown:hover {background:url(img/arrow04b.png) no-repeat 10px 10px #000;}
 .arrowNav a.arrowUp {background:url(img/arrow05a.png) no-repeat 10px 10px #000;}
 .arrowNav a.arrowup:hover {background:url(img/arrow05b.png) no-repeat 10px 10px #000;}
+
+
+
+@media (max-width: 768px) {
+
+    .section-heading {
+	    font-size: 2em;
+    }
+
+    .section {
+	    padding-top: 25px;
+	    padding-bottom: 25px;
+    }
 
 
 }
