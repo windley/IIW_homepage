@@ -113,7 +113,7 @@ $( document ).ready(function() {
     var count = 0;
     jQuery.each(sponsors, function(index,value) {
 	value["color"] = colors[count++ % 6];
-	$("#sponsors").append(template(value));
+	$("div[id='sponsors']").append(template(value));
     });
 
  
