@@ -30,6 +30,11 @@ var sponsors = [
   "logo": "sponsors/logos/vmware.png",
   "what": "Indian Lunch"
  },
+ {"name": "Idicia",
+  "url": "https://www.idicia.com/",
+  "logo": "sponsors/logos/idicia.png",
+  "what": "Tables and Power"
+ },
  {"name": "Janrain",
   "url": "https://www.janrain.com/",
   "logo": "sponsors/logos/janrain.png",
