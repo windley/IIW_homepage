@@ -54,7 +54,12 @@ var sponsors = [
   "url": "https://www.yubico.com/", 
   "logo": "sponsors/logos/yubico.png",
   "what": "Afternoon Break"
- }
+ },
+ {"name": "Qredo",
+  "url": "http://www.qredo.com",
+  "logo": "sponsors/logos/Qredo.png",
+  "what": "Open Space Gifting"
+ },
 ];
 
 var sponsors_old = [
@@ -62,11 +67,6 @@ var sponsors_old = [
   "url": "http://www.neustar.com",
   "logo": "sponsors/logos/neustar.png",
   "what": "Barista"
- },
- {"name": "Qredo",
-  "url": "http://www.qredo.com",
-  "logo": "sponsors/logos/Qredo.png",
-  "what": "BBQ Lunch"
  },
  {"name": "Nexus Group",
   "url": "https://www.nexusgroup.com/",
