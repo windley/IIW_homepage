@@ -10,56 +10,56 @@ var sponsors = [
   "logo": "sponsors/logos/GOOG.jpg",
   "what": "Lunch and Proceedings"
  },
- {"name": "Mozilla Foundation",
-  "url": "https://www.mozilla.org",
-  "logo": "sponsors/logos/mozilla_wordmark.png",
+ {"name": "Nexus Group",
+  "url": "https://www.nexusgroup.com/",
+  "logo": "sponsors/logos/nexus.jpeg",
   "what": "Barista"
- },
- {"name": "Gigya",
-  "url": "http://www.gigya.com",
-  "logo": "sponsors/logos/gigya.jpg",
-  "what": "Conference Breakfasts"
- },
- {"name": "NetIQ",
-  "url": "https://www.netiq.com/",
-  "logo": "sponsors/logos/netiq.png",
-  "what": "BBQ Lunch"
- },
- {"name": "VMWare",
-  "url": "https://www.vmware.com/",
-  "logo": "sponsors/logos/vmware.png",
-  "what": "Indian Lunch"
- },
- {"name": "Idicia",
-  "url": "https://www.idicia.com/",
-  "logo": "sponsors/logos/idicia.png",
-  "what": "Tables and Power"
- },
- {"name": "Janrain",
-  "url": "https://www.janrain.com/",
-  "logo": "sponsors/logos/janrain.png",
-  "what": "Conference Reception"
  },
  {"name": "ForgeRock",
   "url": "https://www.forgerock.com/",
   "logo": "sponsors/logos/forgerock.png",
   "what": "Conference Projectors"
  },
- {"name": "Nexus Group",
-  "url": "https://www.nexusgroup.com/",
-  "logo": "sponsors/logos/nexus.jpeg",
-  "what": "Tuesday Reception"
- },
  {"name": "Yubico",
   "url": "https://www.yubico.com/", 
   "logo": "sponsors/logos/yubico.png",
   "what": "Afternoon Break"
- },
- {"name": "Qredo",
-  "url": "http://www.qredo.com",
-  "logo": "sponsors/logos/Qredo.png",
-  "what": "Open Space Gifting"
- },
+ // },		   
+ // {"name": "Mozilla Foundation",
+ //  "url": "https://www.mozilla.org",
+ //  "logo": "sponsors/logos/mozilla_wordmark.png",
+ //  "what": "Barista"
+ // },
+ // {"name": "Gigya",
+ //  "url": "http://www.gigya.com",
+ //  "logo": "sponsors/logos/gigya.jpg",
+ //  "what": "Conference Breakfasts"
+ // },
+ // {"name": "NetIQ",
+ //  "url": "https://www.netiq.com/",
+ //  "logo": "sponsors/logos/netiq.png",
+ //  "what": "BBQ Lunch"
+ // },
+ // {"name": "VMWare",
+ //  "url": "https://www.vmware.com/",
+ //  "logo": "sponsors/logos/vmware.png",
+ //  "what": "Indian Lunch"
+ // },
+ // {"name": "Idicia",
+ //  "url": "https://www.idicia.com/",
+ //  "logo": "sponsors/logos/idicia.png",
+ //  "what": "Tables and Power"
+ // },
+ // {"name": "Janrain",
+ //  "url": "https://www.janrain.com/",
+ //  "logo": "sponsors/logos/janrain.png",
+ //  "what": "Conference Reception"
+ // },
+ // {"name": "Qredo",
+ //  "url": "http://www.qredo.com",
+ //  "logo": "sponsors/logos/Qredo.png",
+ //  "what": "Open Space Gifting"
+ }
 ];
 
 var sponsors_old = [
