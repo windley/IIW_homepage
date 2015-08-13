@@ -20,11 +20,20 @@ var sponsors = [
   "logo": "sponsors/logos/forgerock.png",
   "what": "Conference Projectors"
  },
+ {"name": "VMWare",
+  "url": "https://www.vmware.com/",
+  "logo": "sponsors/logos/vmware.png",
+  "what": "Lunch"
+ },		   
+ {"name": "SailPoint Technologies",
+  "url": "https://www.sailpoint.com/",
+  "logo": "sponsors/logos/Sailpoint.png",
+  "what": "Conference Reception"
+ },
  {"name": "Yubico",
   "url": "https://www.yubico.com/", 
   "logo": "sponsors/logos/yubico.png",
   "what": "Afternoon Break"
- // },		   
  // {"name": "Mozilla Foundation",
  //  "url": "https://www.mozilla.org",
  //  "logo": "sponsors/logos/mozilla_wordmark.png",
@@ -39,16 +48,6 @@ var sponsors = [
  //  "url": "https://www.netiq.com/",
  //  "logo": "sponsors/logos/netiq.png",
  //  "what": "BBQ Lunch"
- // },
- // {"name": "VMWare",
- //  "url": "https://www.vmware.com/",
- //  "logo": "sponsors/logos/vmware.png",
- //  "what": "Indian Lunch"
- // },
- // {"name": "Idicia",
- //  "url": "https://www.idicia.com/",
- //  "logo": "sponsors/logos/idicia.png",
- //  "what": "Tables and Power"
  // },
  // {"name": "Janrain",
  //  "url": "https://www.janrain.com/",
