@@ -27,7 +27,7 @@ var sponsors = [
  },		   
  {"name": "SailPoint Technologies",
   "url": "https://www.sailpoint.com/",
-  "logo": "sponsors/logos/Sailpoint.png",
+  "logo": "sponsors/logos/SailPoint.png",
   "what": "Conference Reception"
  },
  {"name": "Yubico",
