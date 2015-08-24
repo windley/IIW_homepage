@@ -34,6 +34,11 @@ var sponsors = [
   "url": "https://www.yubico.com/", 
   "logo": "sponsors/logos/yubico.png",
   "what": "Afternoon Break"
+ },
+ {"name": "Identity.com",
+  "url": "http://www.identity.com",
+  "logo": "sponsors/logos/iD_logo_vertical.png",
+  "what": "Open Space Gifting"
  // {"name": "Mozilla Foundation",
  //  "url": "https://www.mozilla.org",
  //  "logo": "sponsors/logos/mozilla_wordmark.png",
@@ -54,10 +59,6 @@ var sponsors = [
  //  "logo": "sponsors/logos/janrain.png",
  //  "what": "Conference Reception"
  // },
- // {"name": "Qredo",
- //  "url": "http://www.qredo.com",
- //  "logo": "sponsors/logos/Qredo.png",
- //  "what": "Open Space Gifting"
  }
 ];
 
