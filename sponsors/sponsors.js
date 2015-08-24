@@ -10,6 +10,11 @@ var sponsors = [
   "logo": "sponsors/logos/GOOG.jpg",
   "what": "Lunch and Proceedings"
  },
+ {"name": "Mozilla Foundation",
+  "url": "https://www.mozilla.org",
+  "logo": "sponsors/logos/mozilla_wordmark.png",
+  "what": "Tables & Power, Reception" 
+ },
  {"name": "Nexus Group",
   "url": "https://www.nexusgroup.com/",
   "logo": "sponsors/logos/nexus.jpeg",
@@ -39,10 +44,6 @@ var sponsors = [
   "url": "http://www.identity.com",
   "logo": "sponsors/logos/iD_logo_vertical.png",
   "what": "Open Space Gifting"
- // {"name": "Mozilla Foundation",
- //  "url": "https://www.mozilla.org",
- //  "logo": "sponsors/logos/mozilla_wordmark.png",
- //  "what": "Barista"
  // },
  // {"name": "Gigya",
  //  "url": "http://www.gigya.com",
