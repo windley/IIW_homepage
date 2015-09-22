@@ -29,7 +29,12 @@ var sponsors = [
   "url": "https://www.vmware.com/",
   "logo": "sponsors/logos/vmware.png",
   "what": "Lunch"
- },		   
+ },
+  {"name": "OASIS ID Trust",
+  "url": "http://www.oasis-idtrust.org/",
+  "logo": "sponsors/logos/idtrust-logo.png",
+  "what": "Lunch"
+ },
  {"name": "SailPoint Technologies",
   "url": "https://www.sailpoint.com/",
   "logo": "sponsors/logos/SailPoint.png",
@@ -78,11 +83,6 @@ var sponsors_old = [
   "url": "https://www.yubico.com/", 
   "logo": "sponsors/logos/yubico.png",
   "what": "Afternoon Break"
- },
- {"name": "OASIS ID Trust",
-  "url": "http://www.oasis-idtrust.org/",
-  "logo": "sponsors/logos/idtrust-logo.png",
-  "what": "Documentation Center"
  }
 
 
