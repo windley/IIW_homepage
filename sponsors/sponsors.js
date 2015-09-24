@@ -49,6 +49,10 @@ var sponsors = [
   "url": "http://www.identity.com",
   "logo": "sponsors/logos/iD_logo_vertical.png",
   "what": "Open Space Gifting"
+ {"name": "Janrain",
+  "url": "https://www.janrain.com/",
+  "logo": "sponsors/logos/janrain.png",
+  "what": "Morning Break"
  // },
  // {"name": "Gigya",
  //  "url": "http://www.gigya.com",
@@ -59,11 +63,6 @@ var sponsors = [
  //  "url": "https://www.netiq.com/",
  //  "logo": "sponsors/logos/netiq.png",
  //  "what": "BBQ Lunch"
- // },
- // {"name": "Janrain",
- //  "url": "https://www.janrain.com/",
- //  "logo": "sponsors/logos/janrain.png",
- //  "what": "Conference Reception"
  // },
  }
 ];
