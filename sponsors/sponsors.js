@@ -49,6 +49,7 @@ var sponsors = [
   "url": "http://www.identity.com",
   "logo": "sponsors/logos/iD_logo_vertical.png",
   "what": "Open Space Gifting"
+ },
  {"name": "Janrain",
   "url": "https://www.janrain.com/",
   "logo": "sponsors/logos/janrain.png",
