@@ -45,15 +45,15 @@ var sponsors = [
   "logo": "sponsors/logos/yubico.png",
   "what": "Afternoon Break"
  },
- {"name": "Identity.com",
-  "url": "http://www.identity.com",
-  "logo": "sponsors/logos/iD_logo_vertical.png",
-  "what": "Open Space Gifting"
- },
  {"name": "Janrain",
   "url": "https://www.janrain.com/",
   "logo": "sponsors/logos/janrain.png",
   "what": "Morning Break"
+ },
+ {"name": "Identity.com",
+  "url": "http://www.identity.com",
+  "logo": "sponsors/logos/iD_logo_vertical.png",
+  "what": "Open Space Gifting"
  // },
  // {"name": "Gigya",
  //  "url": "http://www.gigya.com",
