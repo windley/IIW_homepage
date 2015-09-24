@@ -45,6 +45,11 @@ var sponsors = [
   "logo": "sponsors/logos/yubico.png",
   "what": "Afternoon Break"
  },
+ {"name": "WSO2",
+  "url": "https://www.wso2.com/", 
+  "logo": "sponsors/logos/wso2.png",
+  "what": "Afternoon Break"
+ },
  {"name": "Janrain",
   "url": "https://www.janrain.com/",
   "logo": "sponsors/logos/janrain.png",
