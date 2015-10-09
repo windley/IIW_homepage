@@ -13,7 +13,7 @@ var sponsors = [
  {"name": "Mozilla Foundation",
   "url": "https://www.mozilla.org",
   "logo": "sponsors/logos/mozilla_wordmark.png",
-  "what": "Tables & Power, Welcom Reception" 
+  "what": "Tables & Power, Welcome Reception" 
  },
  {"name": "Nexus Group",
   "url": "https://www.nexusgroup.com/",
