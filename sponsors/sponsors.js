@@ -8,17 +8,22 @@ var sponsors = [
  {"name": "Google",
   "url": "http://www.google.com",
   "logo": "sponsors/logos/GOOG.jpg",
-  "what": "Lunch and Proceedings"
+  "what": "Welcome Dinner"
  },
  {"name": "Mozilla Foundation",
   "url": "https://www.mozilla.org",
   "logo": "sponsors/logos/mozilla_wordmark.png",
-  "what": "Tables & Power, Reception" 
+  "what": "Tables & Power, Welcom Reception" 
  },
  {"name": "Nexus Group",
   "url": "https://www.nexusgroup.com/",
   "logo": "sponsors/logos/nexus.jpeg",
   "what": "Barista"
+ },
+ {"name": "Gigya",
+  "url": "http://www.gigya.com",
+  "logo": "sponsors/logos/gigya.jpg",
+  "what": "BBQ Lunch"
  },
  {"name": "ForgeRock",
   "url": "https://www.forgerock.com/",
@@ -28,17 +33,27 @@ var sponsors = [
  {"name": "VMWare",
   "url": "https://www.vmware.com/",
   "logo": "sponsors/logos/vmware.png",
-  "what": "Lunch"
+  "what": "Mexican Lunch"
  },
   {"name": "OASIS ID Trust",
   "url": "http://www.oasis-idtrust.org/",
   "logo": "sponsors/logos/idtrust-logo.png",
-  "what": "Lunch"
+  "what": "Indian Lunch"
  },
  {"name": "SailPoint Technologies",
   "url": "https://www.sailpoint.com/",
   "logo": "sponsors/logos/SailPoint.png",
   "what": "Conference Reception"
+ },
+ {"name": "Covisint",
+  "url": "https://www.covisint.com/",
+  "logo": "sponsors/logos/covisint-logo.png",
+  "what": "Lightening Demos"
+ },
+ {"name": "AVG",
+  "url": "https://www.avg.com/",
+  "logo": "sponsors/logos/avg-icon.png",
+  "what": "Morning Breaks"
  },
  {"name": "Yubico",
   "url": "https://www.yubico.com/", 
@@ -55,21 +70,20 @@ var sponsors = [
   "logo": "sponsors/logos/janrain.png",
   "what": "Morning Break"
  },
+ {"name": "digi.me",
+  "url": "https://digi.me",
+  "logo": "sponsors/logos/digi.me-logo.png",
+  "what": "Doc Center and Open Space Gifting"
+ },
  {"name": "Identity.com",
   "url": "http://www.identity.com",
   "logo": "sponsors/logos/iD_logo_vertical.png",
   "what": "Open Space Gifting"
- // },
- // {"name": "Gigya",
- //  "url": "http://www.gigya.com",
- //  "logo": "sponsors/logos/gigya.jpg",
- //  "what": "Conference Breakfasts"
- // },
- // {"name": "NetIQ",
- //  "url": "https://www.netiq.com/",
- //  "logo": "sponsors/logos/netiq.png",
- //  "what": "BBQ Lunch"
- // },
+ },
+ {"name": "Welcomer",
+  "url": "http://www.welcomer.me",
+  "logo": "sponsors/logos/welcomer-logo.png",
+  "what": "Open Space Gifting"
  }
 ];
 
