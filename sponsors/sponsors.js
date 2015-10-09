@@ -46,7 +46,7 @@ var sponsors = [
   "what": "Conference Reception"
  },
  {"name": "Covisint",
-  "url": "https://www.covisint.com/",
+  "url": "http://www.covisint.com/",
   "logo": "sponsors/logos/covisint-logo.png",
   "what": "Lightening Demos"
  },
