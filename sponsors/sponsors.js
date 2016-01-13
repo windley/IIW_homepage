@@ -10,6 +10,26 @@ var sponsors = [
   "logo": "sponsors/logos/googlelogo_light_clr_160x56pxx.png",
   "what": "Welcome Dinner" 
  },
+ {"name": "ForgeRock",
+  "url": "https://www.forgerock.com/",
+  "logo": "sponsors/logos/forgerock.png",
+  "what": "Conference Reception"
+ },
+ {"name": "Janrain",
+  "url": "https://www.janrain.com/",
+  "logo": "sponsors/logos/janrain.png",
+  "what": "Opening Reception"
+ },
+ {"name": "Yubico",
+  "url": "https://www.yubico.com/", 
+  "logo": "sponsors/logos/yubico.png",
+  "what": "Afternoon Break"
+ },
+ {"name": "Identity.com",
+  "url": "http://www.identity.com",
+  "logo": "sponsors/logos/iD_logo_vertical.png",
+  "what": "Open Space Gifting"
+ }
  // {"name": "Mozilla Foundation",
  //  "url": "https://www.mozilla.org",
  //  "logo": "sponsors/logos/mozilla_wordmark.png",
@@ -24,11 +44,6 @@ var sponsors = [
  //  "url": "http://www.gigya.com",
  //  "logo": "sponsors/logos/gigya.jpg",
  //  "what": "BBQ Lunch"
- // },
- // {"name": "ForgeRock",
- //  "url": "https://www.forgerock.com/",
- //  "logo": "sponsors/logos/forgerock.png",
- //  "what": "Conference Projectors"
  // },
  // {"name": "VMWare",
  //  "url": "https://www.vmware.com/",
@@ -55,30 +70,15 @@ var sponsors = [
  //  "logo": "sponsors/logos/avg-icon.png",
  //  "what": "Morning Breaks"
  // },
- // {"name": "Yubico",
- //  "url": "https://www.yubico.com/", 
- //  "logo": "sponsors/logos/yubico.png",
- //  "what": "Afternoon Break"
- // },
  // {"name": "WSO2",
  //  "url": "https://www.wso2.com/", 
  //  "logo": "sponsors/logos/wso2.png",
  //  "what": "Afternoon Break"
  // },
- // {"name": "Janrain",
- //  "url": "https://www.janrain.com/",
- //  "logo": "sponsors/logos/janrain.png",
- //  "what": "Morning Break"
- // },
  // {"name": "digi.me",
  //  "url": "https://digi.me",
  //  "logo": "sponsors/logos/digi.me-logo.png",
  //  "what": "Doc Center and Open Space Gifting"
- // },
- // {"name": "Identity.com",
- //  "url": "http://www.identity.com",
- //  "logo": "sponsors/logos/iD_logo_vertical.png",
- //  "what": "Open Space Gifting"
  // },
  // {"name": "Welcomer",
  //  "url": "http://www.welcomer.me",
