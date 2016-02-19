@@ -25,6 +25,11 @@ var sponsors = [
   "logo": "sponsors/logos/yubico.png",
   "what": "Afternoon Break"
  },
+ {"name": "Cirrus Identity",
+  "url": "http://www.cirrusidentity.com/",
+  "logo": "sponsors/logos/cirrusidentity.png",
+  "what": "Doc Center"
+ },
  {"name": "Identity.com",
   "url": "http://www.identity.com",
   "logo": "sponsors/logos/iD_logo_vertical.png",
