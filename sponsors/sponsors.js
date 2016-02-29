@@ -30,6 +30,11 @@ var sponsors = [
   "logo": "sponsors/logos/yubico.png",
   "what": "Afternoon Break"
  },
+ {"name": "AOL",
+  "url": "https://www.aol.com/", 
+  "logo": "sponsors/logos/Aol.white.png",
+  "what": "Afternoon Break"
+ },
  {"name": "Cirrus Identity",
   "url": "http://www.cirrusidentity.com/",
   "logo": "sponsors/logos/cirrusidentity.png",
