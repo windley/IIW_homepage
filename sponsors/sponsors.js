@@ -10,6 +10,11 @@ var sponsors = [
   "logo": "sponsors/logos/googlelogo_light_clr_160x56pxx.png",
   "what": "Welcome Dinner" 
  },
+ {"name": "Gigya",
+  "url": "http://www.gigya.com",
+  "logo": "sponsors/logos/gigya.jpg",
+  "what": "Barista"
+ },
  {"name": "VMWare",
   "url": "https://www.vmware.com/",
   "logo": "sponsors/logos/vmware.png",
@@ -54,11 +59,6 @@ var sponsors = [
  //  "url": "https://www.nexusgroup.com/",
  //  "logo": "sponsors/logos/nexus.jpeg",
  //  "what": "Barista"
- // },
- // {"name": "Gigya",
- //  "url": "http://www.gigya.com",
- //  "logo": "sponsors/logos/gigya.jpg",
- //  "what": "BBQ Lunch"
  // },
  //  {"name": "OASIS ID Trust",
  //  "url": "http://www.oasis-idtrust.org/",
