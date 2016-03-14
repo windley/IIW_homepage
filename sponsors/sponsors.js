@@ -40,6 +40,11 @@ var sponsors = [
   "logo": "sponsors/logos/Aol.white.png",
   "what": "Afternoon Break"
  },
+ {"name": "WSO2",
+  "url": "https://www.wso2.com/", 
+  "logo": "sponsors/logos/wso2.png",
+  "what": "Morning Break"
+ },
  {"name": "Cirrus Identity",
   "url": "http://www.cirrusidentity.com/",
   "logo": "sponsors/logos/cirrusidentity.png",
@@ -79,11 +84,6 @@ var sponsors = [
  //  "url": "https://www.avg.com/",
  //  "logo": "sponsors/logos/avg-icon.png",
  //  "what": "Morning Breaks"
- // },
- // {"name": "WSO2",
- //  "url": "https://www.wso2.com/", 
- //  "logo": "sponsors/logos/wso2.png",
- //  "what": "Afternoon Break"
  // },
  // {"name": "digi.me",
  //  "url": "https://digi.me",
