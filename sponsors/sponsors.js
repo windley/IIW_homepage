@@ -20,6 +20,11 @@ var sponsors = [
   "logo": "sponsors/logos/vmware.png",
   "what": "BBQ Lunch"
  },
+ {"name": "digi.me",
+  "url": "https://digi.me",
+  "logo": "sponsors/logos/digi.me-logo.png",
+  "what": "Tables and Power"
+ },
  {"name": "ForgeRock",
   "url": "https://www.forgerock.com/",
   "logo": "sponsors/logos/forgerock.png",
@@ -84,11 +89,6 @@ var sponsors = [
  //  "url": "https://www.avg.com/",
  //  "logo": "sponsors/logos/avg-icon.png",
  //  "what": "Morning Breaks"
- // },
- // {"name": "digi.me",
- //  "url": "https://digi.me",
- //  "logo": "sponsors/logos/digi.me-logo.png",
- //  "what": "Doc Center and Open Space Gifting"
  // },
  // {"name": "Welcomer",
  //  "url": "http://www.welcomer.me",
