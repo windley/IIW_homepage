@@ -25,6 +25,11 @@ var sponsors = [
   "logo": "sponsors/logos/digi.me-logo.png",
   "what": "Tables and Power"
  },
+ {"name": "Kantara",
+  "url": "https://kantarainitiative.org/",
+  "logo": "sponsors/logos/logo_kantara.gif",
+  "what": "Projectors"
+ },
  {"name": "ForgeRock",
   "url": "https://www.forgerock.com/",
   "logo": "sponsors/logos/forgerock.png",
