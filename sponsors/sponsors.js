@@ -9,62 +9,62 @@ var sponsors = [
   "url": "http://www.google.com",
   "logo": "sponsors/logos/googlelogo_light_clr_160x56pxx.png",
   "what": "Welcome Dinner" 
- },
- {"name": "Gigya",
-  "url": "http://www.gigya.com",
-  "logo": "sponsors/logos/gigya.jpg",
-  "what": "Barista"
- },
- {"name": "VMWare",
-  "url": "https://www.vmware.com/",
-  "logo": "sponsors/logos/vmware.png",
-  "what": "BBQ Lunch"
- },
- {"name": "digi.me",
-  "url": "https://digi.me",
-  "logo": "sponsors/logos/digi.me-logo.png",
-  "what": "Tables and Power"
- },
- {"name": "Kantara",
-  "url": "https://kantarainitiative.org/",
-  "logo": "sponsors/logos/logo_kantara.gif",
-  "what": "Projectors"
- },
- {"name": "ForgeRock",
-  "url": "https://www.forgerock.com/",
-  "logo": "sponsors/logos/forgerock.png",
-  "what": "Conference Reception"
- },
- {"name": "Janrain",
-  "url": "https://www.janrain.com/",
-  "logo": "sponsors/logos/janrain.png",
-  "what": "Opening Reception"
- },
- {"name": "Yubico",
-  "url": "https://www.yubico.com/", 
-  "logo": "sponsors/logos/yubico.png",
-  "what": "Afternoon Break"
- },
- {"name": "AOL",
-  "url": "https://www.aol.com/", 
-  "logo": "sponsors/logos/Aol.white.png",
-  "what": "Afternoon Break"
- },
- {"name": "WSO2",
-  "url": "https://www.wso2.com/", 
-  "logo": "sponsors/logos/wso2.png",
-  "what": "Morning Break"
- },
- {"name": "Cirrus Identity",
-  "url": "http://www.cirrusidentity.com/",
-  "logo": "sponsors/logos/cirrusidentity.png",
-  "what": "Doc Center"
- },
- {"name": "Identity.com",
-  "url": "http://www.identity.com",
-  "logo": "sponsors/logos/iD_logo_vertical.png",
-  "what": "Open Space Gifting"
  }
+ // {"name": "Gigya",
+ //  "url": "http://www.gigya.com",
+ //  "logo": "sponsors/logos/gigya.jpg",
+ //  "what": "Barista"
+ // },
+ // {"name": "VMWare",
+ //  "url": "https://www.vmware.com/",
+ //  "logo": "sponsors/logos/vmware.png",
+ //  "what": "BBQ Lunch"
+ // },
+ // {"name": "digi.me",
+ //  "url": "https://digi.me",
+ //  "logo": "sponsors/logos/digi.me-logo.png",
+ //  "what": "Tables and Power"
+ // },
+ // {"name": "Kantara",
+ //  "url": "https://kantarainitiative.org/",
+ //  "logo": "sponsors/logos/logo_kantara.gif",
+ //  "what": "Projectors"
+ // },
+ // {"name": "ForgeRock",
+ //  "url": "https://www.forgerock.com/",
+ //  "logo": "sponsors/logos/forgerock.png",
+ //  "what": "Conference Reception"
+ // },
+ // {"name": "Janrain",
+ //  "url": "https://www.janrain.com/",
+ //  "logo": "sponsors/logos/janrain.png",
+ //  "what": "Opening Reception"
+ // },
+ // {"name": "Yubico",
+ //  "url": "https://www.yubico.com/", 
+ //  "logo": "sponsors/logos/yubico.png",
+ //  "what": "Afternoon Break"
+ // },
+ // {"name": "AOL",
+ //  "url": "https://www.aol.com/", 
+ //  "logo": "sponsors/logos/Aol.white.png",
+ //  "what": "Afternoon Break"
+ // },
+ // {"name": "WSO2",
+ //  "url": "https://www.wso2.com/", 
+ //  "logo": "sponsors/logos/wso2.png",
+ //  "what": "Morning Break"
+ // },
+ // {"name": "Cirrus Identity",
+ //  "url": "http://www.cirrusidentity.com/",
+ //  "logo": "sponsors/logos/cirrusidentity.png",
+ //  "what": "Doc Center"
+ // },
+ // {"name": "Identity.com",
+ //  "url": "http://www.identity.com",
+ //  "logo": "sponsors/logos/iD_logo_vertical.png",
+ //  "what": "Open Space Gifting"
+ // }
  // {"name": "Mozilla Foundation",
  //  "url": "https://www.mozilla.org",
  //  "logo": "sponsors/logos/mozilla_wordmark.png",
