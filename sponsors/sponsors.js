@@ -9,6 +9,16 @@ var sponsors = [
   "url": "http://www.google.com",
   "logo": "sponsors/logos/googlelogo_light_clr_160x56pxx.png",
   "what": "Welcome Dinner" 
+ },
+ {"name": "digi.me",
+  "url": "https://digi.me",
+  "logo": "sponsors/logos/digi.me-logo.png",
+  "what": "Conference Reception"
+ },
+ {"name": "Yubico",
+  "url": "https://www.yubico.com/", 
+  "logo": "sponsors/logos/yubico.png",
+  "what": "Tuesday Breakfast"
  }
  // {"name": "Gigya",
  //  "url": "http://www.gigya.com",
@@ -19,11 +29,6 @@ var sponsors = [
  //  "url": "https://www.vmware.com/",
  //  "logo": "sponsors/logos/vmware.png",
  //  "what": "BBQ Lunch"
- // },
- // {"name": "digi.me",
- //  "url": "https://digi.me",
- //  "logo": "sponsors/logos/digi.me-logo.png",
- //  "what": "Tables and Power"
  // },
  // {"name": "Kantara",
  //  "url": "https://kantarainitiative.org/",
@@ -39,11 +44,6 @@ var sponsors = [
  //  "url": "https://www.janrain.com/",
  //  "logo": "sponsors/logos/janrain.png",
  //  "what": "Opening Reception"
- // },
- // {"name": "Yubico",
- //  "url": "https://www.yubico.com/", 
- //  "logo": "sponsors/logos/yubico.png",
- //  "what": "Afternoon Break"
  // },
  // {"name": "AOL",
  //  "url": "https://www.aol.com/", 
