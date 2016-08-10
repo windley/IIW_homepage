@@ -15,6 +15,11 @@ var sponsors = [
   "logo": "sponsors/logos/vmware.png",
   "what": "Barista"
  },
+ {"name": "ForgeRock",
+  "url": "https://www.forgerock.com/",
+  "logo": "sponsors/logos/forgerock.png",
+  "what": "Tables & Power"
+ },
  {"name": "digi.me",
   "url": "https://digi.me",
   "logo": "sponsors/logos/digi.me-logo.png",
@@ -34,6 +39,11 @@ var sponsors = [
   "url": "http://www.identity.com",
   "logo": "sponsors/logos/iD_logo_vertical.png",
   "what": "Afternoon Break"
+ },
+ {"name": "Constellation Research",
+  "url": "https://www.constellationr.com",
+  "logo": "sponsors/logos/constellation-logo.png",
+  "what": "Doc Center"
  }
  // {"name": "Gigya",
  //  "url": "http://www.gigya.com",
@@ -44,11 +54,6 @@ var sponsors = [
  //  "url": "https://kantarainitiative.org/",
  //  "logo": "sponsors/logos/logo_kantara.gif",
  //  "what": "Projectors"
- // },
- // {"name": "ForgeRock",
- //  "url": "https://www.forgerock.com/",
- //  "logo": "sponsors/logos/forgerock.png",
- //  "what": "Conference Reception"
  // },
  // {"name": "AOL",
  //  "url": "https://www.aol.com/", 
