@@ -1,16 +1,16 @@
 
 var sponsors = [
- {"name": "Microsoft",
-  "url": "http://www.microsoft.com",
-  "logo": "sponsors/logos/MSFT.png",
-  "what": "Conference Dinner"
- },
  {"name": "Google",
   "url": "http://www.google.com",
   "logo": "sponsors/logos/googlelogo_light_clr_160x56pxx.png",
   "what": "Welcome Dinner" 
  },
- {"name": "VMWare",
+ {"name": "Microsoft",
+  "url": "http://www.microsoft.com",
+  "logo": "sponsors/logos/MSFT.png",
+  "what": "Conference Dinner"
+ }, 
+{"name": "VMWare",
   "url": "https://www.vmware.com/",
   "logo": "sponsors/logos/vmware.png",
   "what": "Barista"
