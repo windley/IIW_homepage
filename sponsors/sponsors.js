@@ -15,10 +15,20 @@ var sponsors = [
   "logo": "sponsors/logos/vmware.png",
   "what": "Barista"
  },
+ {"name": "Gigya",
+  "url": "http://www.gigya.com",
+  "logo": "sponsors/logos/gigya.jpg",
+  "what": "Barista"
+ },
  {"name": "ForgeRock",
   "url": "https://www.forgerock.com/",
   "logo": "sponsors/logos/forgerock.png",
   "what": "Tables & Power"
+ },
+ {"name": "Kantara",
+  "url": "https://kantarainitiative.org/",
+  "logo": "sponsors/logos/logo_kantara.gif",
+  "what": "Projectors"
  },
  {"name": "digi.me",
   "url": "https://digi.me",
@@ -40,21 +50,21 @@ var sponsors = [
   "logo": "sponsors/logos/iD_logo_vertical.png",
   "what": "Afternoon Break"
  },
+ {"name": "Evernym",
+  "url": "http://www.evernym.com",
+  "logo": "sponsors/logos/evernym.png",
+  "what": "Morning Break"
+ },
  {"name": "Constellation Research",
   "url": "https://www.constellationr.com",
   "logo": "sponsors/logos/constellation-logo.png",
   "what": "Doc Center"
+ },
+ {"name": "Evernym",
+  "url": "http://www.evernym.com",
+  "logo": "sponsors/logos/evernym.png",
+  "what": "Gifting"
  }
- // {"name": "Gigya",
- //  "url": "http://www.gigya.com",
- //  "logo": "sponsors/logos/gigya.jpg",
- //  "what": "Barista"
- // },
- // {"name": "Kantara",
- //  "url": "https://kantarainitiative.org/",
- //  "logo": "sponsors/logos/logo_kantara.gif",
- //  "what": "Projectors"
- // },
  // {"name": "AOL",
  //  "url": "https://www.aol.com/", 
  //  "logo": "sponsors/logos/Aol.white.png",
