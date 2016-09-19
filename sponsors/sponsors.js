@@ -18,7 +18,7 @@ var sponsors = [
  {"name": "Gigya",
   "url": "http://www.gigya.com",
   "logo": "sponsors/logos/gigya.jpg",
-  "what": "Barista"
+  "what": "BBQ Lunch"
  },
  {"name": "ForgeRock",
   "url": "https://www.forgerock.com/",
