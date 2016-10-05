@@ -55,6 +55,11 @@ var sponsors = [
   "logo": "sponsors/logos/evernym.png",
   "what": "Morning Break"
  },
+ {"name": "BIG",
+  "url": "http://bigfintechmedia.com/",
+  "logo": "sponsors/logos/big.png",
+  "what": "Afternoon Break"
+ },
  {"name": "Constellation Research",
   "url": "https://www.constellationr.com",
   "logo": "sponsors/logos/constellation-logo.png",
