@@ -35,6 +35,11 @@ var sponsors = [
   "logo": "sponsors/logos/digi.me-logo.png",
   "what": "Conference Reception"
  },
+ {"name": "Login with Amazon",
+  "url": "http://login.amazon.com/",
+  "logo": "sponsors/logos/login_with_amazon.png",
+  "what": "Demo Hour"
+ },
  {"name": "Janrain",
   "url": "https://www.janrain.com/",
   "logo": "sponsors/logos/janrain.png",
