@@ -30,6 +30,11 @@ var sponsors = [
   "logo": "sponsors/logos/logo_kantara.gif",
   "what": "Projectors"
  },
+ {"name": "Oracle",
+  "url": "https://oracle.com/",
+  "logo": "sponsors/logos/oracle.png",
+  "what": "Lunch"
+ },
  {"name": "digi.me",
   "url": "https://digi.me",
   "logo": "sponsors/logos/digi.me-logo.png",
