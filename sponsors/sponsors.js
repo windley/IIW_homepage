@@ -133,7 +133,7 @@ var sponsors = [
 ];
 
 var sponsors_old = [
- H{"name": "Nexus Group",
+ {"name": "Nexus Group",
   "url": "https://www.nexusgroup.com/",
   "logo": "sponsors/logos/nexus.jpeg",
   "what": "Tuesday Reception"
