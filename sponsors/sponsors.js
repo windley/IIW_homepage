@@ -33,7 +33,7 @@ var sponsors = [
     {"name": "Gigya",
      "url": "http://www.gigya.com",
      "logo": "sponsors/logos/gigya.jpg",
-     "what": "BBQ Lunch"
+     "what": "Power and Tables"
     }
  // {"name": "Oracle",
  //  "url": "https://oracle.com/",
