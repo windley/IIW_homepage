@@ -20,12 +20,7 @@ var sponsors = [
      "logo": "sponsors/logos/digi.me-logo.png",
      "what": "BBQ Lunch"
     },
- //   {"name": "Gigya",
- //  "url": "http://www.gigya.com",
- //  "logo": "sponsors/logos/gigya.jpg",
- //  "what": "BBQ Lunch"
- // },
- // {"name": "ForgeRock",
+  // {"name": "ForgeRock",
  //  "url": "https://www.forgerock.com/",
  //  "logo": "sponsors/logos/forgerock.png",
  //  "what": "Tables & Power"
@@ -34,6 +29,11 @@ var sponsors = [
      "url": "https://kantarainitiative.org/",
      "logo": "sponsors/logos/logo_kantara.gif",
      "what": "Projectors"
+    },
+    {"name": "Gigya",
+     "url": "http://www.gigya.com",
+     "logo": "sponsors/logos/gigya.jpg",
+     "what": "BBQ Lunch"
     }
  // {"name": "Oracle",
  //  "url": "https://oracle.com/",
