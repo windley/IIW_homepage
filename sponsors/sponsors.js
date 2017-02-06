@@ -1,21 +1,26 @@
 
 var sponsors = [
- // {"name": "Google",
- //  "url": "http://www.google.com",
- //  "logo": "sponsors/logos/googlelogo_light_clr_160x56pxx.png",
- //  "what": "Welcome Dinner" 
- // },
- // {"name": "Microsoft",
- //  "url": "http://www.microsoft.com",
- //  "logo": "sponsors/logos/MSFT.png",
- //  "what": "Conference Dinner"
- // }, 
-{"name": "VMWare",
-  "url": "https://www.vmware.com/",
-  "logo": "sponsors/logos/vmware.png",
-  "what": "Barista"
- }
- // {"name": "Gigya",
+    {"name": "Google",
+     "url": "http://www.google.com",
+     "logo": "sponsors/logos/googlelogo_light_clr_160x56pxx.png",
+     "what": "Welcome Dinner" 
+    },
+    {"name": "Microsoft",
+     "url": "http://www.microsoft.com",
+     "logo": "sponsors/logos/MSFT.png",
+     "what": "Conference Dinner"
+    }, 
+    {"name": "VMWare",
+     "url": "https://www.vmware.com/",
+     "logo": "sponsors/logos/vmware.png",
+     "what": "Barista"
+    },
+    {"name": "digi.me",
+     "url": "https://digi.me",
+     "logo": "sponsors/logos/digi.me-logo.png",
+     "what": "BBQ Lunch"
+    },
+ //   {"name": "Gigya",
  //  "url": "http://www.gigya.com",
  //  "logo": "sponsors/logos/gigya.jpg",
  //  "what": "BBQ Lunch"
@@ -25,20 +30,15 @@ var sponsors = [
  //  "logo": "sponsors/logos/forgerock.png",
  //  "what": "Tables & Power"
  // },
- // {"name": "Kantara",
- //  "url": "https://kantarainitiative.org/",
- //  "logo": "sponsors/logos/logo_kantara.gif",
- //  "what": "Projectors"
- // },
+    {"name": "Kantara",
+     "url": "https://kantarainitiative.org/",
+     "logo": "sponsors/logos/logo_kantara.gif",
+     "what": "Projectors"
+    }
  // {"name": "Oracle",
  //  "url": "https://oracle.com/",
  //  "logo": "sponsors/logos/oracle.png",
  //  "what": "Lunch"
- // },
- // {"name": "digi.me",
- //  "url": "https://digi.me",
- //  "logo": "sponsors/logos/digi.me-logo.png",
- //  "what": "Conference Reception"
  // },
  // {"name": "Login with Amazon",
  //  "url": "http://login.amazon.com/",
@@ -133,7 +133,7 @@ var sponsors = [
 ];
 
 var sponsors_old = [
- {"name": "Nexus Group",
+ H{"name": "Nexus Group",
   "url": "https://www.nexusgroup.com/",
   "logo": "sponsors/logos/nexus.jpeg",
   "what": "Tuesday Reception"
