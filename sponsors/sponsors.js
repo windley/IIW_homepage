@@ -34,7 +34,7 @@ var sponsors = [
      "url": "http://www.gigya.com",
      "logo": "sponsors/logos/gigya.jpg",
      "what": "Power and Tables"
-    }
+    },
  // {"name": "Oracle",
  //  "url": "https://oracle.com/",
  //  "logo": "sponsors/logos/oracle.png",
@@ -50,16 +50,16 @@ var sponsors = [
  //  "logo": "sponsors/logos/janrain.png",
  //  "what": "Opening Reception"
  // },
- // {"name": "Yubico",
- //  "url": "https://www.yubico.com/", 
- //  "logo": "sponsors/logos/yubico.png",
- //  "what": "Tuesday Breakfast"
- // },
- // {"name": "Identity.com",
- //  "url": "http://www.identity.com",
- //  "logo": "sponsors/logos/iD_logo_vertical.png",
- //  "what": "Afternoon Break"
- // },
+ {"name": "Yubico",
+  "url": "https://www.yubico.com/", 
+  "logo": "sponsors/logos/yubico.png",
+  "what": "Tuesday Breakfast"
+ },
+ {"name": "Identity.com",
+  "url": "http://www.identity.com",
+  "logo": "sponsors/logos/iD_logo_vertical.png",
+  "what": "Afternoon Break"
+  }
  // {"name": "Evernym",
  //  "url": "http://www.evernym.com",
  //  "logo": "sponsors/logos/evernym.png",
