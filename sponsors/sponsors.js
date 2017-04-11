@@ -59,7 +59,12 @@ var sponsors = [
   "url": "http://www.identity.com",
   "logo": "sponsors/logos/iD_logo_vertical.png",
   "what": "Afternoon Break"
-  }
+ },
+    {"name": "Cirrus Identity",
+     "url": "http://www.cirrusidentity.com/",
+     "logo": "sponsors/logos/cirrusidentity.png",
+     "what": "Doc Center"
+    }
  // {"name": "Evernym",
  //  "url": "http://www.evernym.com",
  //  "logo": "sponsors/logos/evernym.png",
@@ -89,11 +94,6 @@ var sponsors = [
  //  "url": "https://www.wso2.com/", 
  //  "logo": "sponsors/logos/wso2.png",
  //  "what": "Morning Break"
- // },
- // {"name": "Cirrus Identity",
- //  "url": "http://www.cirrusidentity.com/",
- //  "logo": "sponsors/logos/cirrusidentity.png",
- //  "what": "Doc Center"
  // },
  // {"name": "Mozilla Foundation",
  //  "url": "https://www.mozilla.org",
