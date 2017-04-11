@@ -45,11 +45,16 @@ var sponsors = [
  //  "logo": "sponsors/logos/login_with_amazon.png",
  //  "what": "Demo Hour"
  // },
- // {"name": "Janrain",
- //  "url": "https://www.janrain.com/",
- //  "logo": "sponsors/logos/janrain.png",
- //  "what": "Opening Reception"
- // },
+    {"name": "Auth0",
+     "url": "https://www.auth0.com/",
+     "logo": "sponsors/logos/auth0-logo-blue.png",
+     "what": "Demo Hour"
+    },
+{"name": "Auth0",
+  "url": "https://www.auth0.com/",
+  "logo": "sponsors/logos/auth0-logo-blue.png",
+  "what": "Opening Reception"
+ },
  {"name": "Yubico",
   "url": "https://www.yubico.com/", 
   "logo": "sponsors/logos/yubico.png",
