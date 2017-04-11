@@ -52,7 +52,7 @@ var sponsors = [
     },
 {"name": "Auth0",
   "url": "https://www.auth0.com/",
-  "logo": "sponsors/logos/auth0-logo-blue.png",
+  "logo": "sponsors/logos/auth0-logo-blue.png?foo=1",
   "what": "Opening Reception"
  },
  {"name": "Yubico",
