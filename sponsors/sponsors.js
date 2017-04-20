@@ -65,16 +65,21 @@ var sponsors = [
   "logo": "sponsors/logos/iD_logo_vertical.png",
   "what": "Afternoon Break"
  },
+    {"name": "Omidyar Network",
+     "url": "https://www.omidyar.com/",
+     "logo": "sponsors/logos/Omidyar-Network.gif",
+     "what": "Morning Break"
+    },
     {"name": "Cirrus Identity",
      "url": "http://www.cirrusidentity.com/",
      "logo": "sponsors/logos/cirrusidentity.png",
      "what": "Doc Center"
-    }
- // {"name": "Evernym",
- //  "url": "http://www.evernym.com",
- //  "logo": "sponsors/logos/evernym.png",
- //  "what": "Morning Break"
- // },
+    },
+ {"name": "Evernym",
+  "url": "http://www.evernym.com",
+  "logo": "sponsors/logos/evernym.png",
+  "what": "Documentation Center"
+ }
  // {"name": "BIG",
  //  "url": "http://bigfintechmedia.com/",
  //  "logo": "sponsors/logos/big.png",
