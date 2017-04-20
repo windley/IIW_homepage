@@ -67,7 +67,7 @@ var sponsors = [
  },
     {"name": "Omidyar Network",
      "url": "https://www.omidyar.com/",
-     "logo": "sponsors/logos/Omidyar-Network.gif",
+     "logo": "sponsors/logos/omidyar_network.png",
      "what": "Morning Break"
     },
     {"name": "Cirrus Identity",
