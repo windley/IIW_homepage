@@ -9,32 +9,32 @@ var sponsors = [
      "url": "http://www.microsoft.com",
      "logo": "sponsors/logos/MSFT.png",
      "what": "Conference Dinner"
-    }, 
-    {"name": "VMWare",
-     "url": "https://www.vmware.com/",
-     "logo": "sponsors/logos/vmware.png",
-     "what": "Barista"
-    },
-    {"name": "digi.me",
-     "url": "https://digi.me",
-     "logo": "sponsors/logos/digi.me-logo.png",
-     "what": "BBQ Lunch"
-    },
-    {"name": "Kantara",
-     "url": "https://kantarainitiative.org/",
-     "logo": "sponsors/logos/logo_kantara.gif",
-     "what": "Projectors"
-    },
-    {"name": "Gigya",
-     "url": "http://www.gigya.com",
-     "logo": "sponsors/logos/gigya.jpg",
-     "what": "Power and Tables"
-    },
-    {"name": "ForgeRock",
-     "url": "https://www.forgerock.com/",
-     "logo": "sponsors/logos/forgerock.png",
-     "what": "Opening Reception"
-    },
+    }
+    // {"name": "VMWare",
+    //  "url": "https://www.vmware.com/",
+    //  "logo": "sponsors/logos/vmware.png",
+    //  "what": "Barista"
+    // },
+    // {"name": "digi.me",
+    //  "url": "https://digi.me",
+    //  "logo": "sponsors/logos/digi.me-logo.png",
+    //  "what": "BBQ Lunch"
+    // },
+    // {"name": "Kantara",
+    //  "url": "https://kantarainitiative.org/",
+    //  "logo": "sponsors/logos/logo_kantara.gif",
+    //  "what": "Projectors"
+    // },
+    // {"name": "Gigya",
+    //  "url": "http://www.gigya.com",
+    //  "logo": "sponsors/logos/gigya.jpg",
+    //  "what": "Power and Tables"
+    // },
+    // {"name": "ForgeRock",
+    //  "url": "https://www.forgerock.com/",
+    //  "logo": "sponsors/logos/forgerock.png",
+    //  "what": "Opening Reception"
+    // },
  // {"name": "Oracle",
  //  "url": "https://oracle.com/",
  //  "logo": "sponsors/logos/oracle.png",
@@ -45,41 +45,41 @@ var sponsors = [
  //  "logo": "sponsors/logos/login_with_amazon.png",
  //  "what": "Demo Hour"
  // },
-    {"name": "Auth0",
-     "url": "https://www.auth0.com/",
-     "logo": "sponsors/logos/auth0-logo-blue.png",
-     "what": "Demo Hour"
-    },
-{"name": "Auth0",
-  "url": "https://www.auth0.com/",
-  "logo": "sponsors/logos/auth0-logo-blue.png?foo=1",
-  "what": "Opening Reception"
- },
- {"name": "Yubico",
-  "url": "https://www.yubico.com/", 
-  "logo": "sponsors/logos/yubico.png",
-  "what": "Tuesday Breakfast"
- },
- {"name": "Identity.com",
-  "url": "http://www.identity.com",
-  "logo": "sponsors/logos/iD_logo_vertical.png",
-  "what": "Afternoon Break"
- },
-    {"name": "Omidyar Network",
-     "url": "https://www.omidyar.com/",
-     "logo": "sponsors/logos/omidyar_network.png",
-     "what": "Morning Break"
-    },
-    {"name": "Cirrus Identity",
-     "url": "http://www.cirrusidentity.com/",
-     "logo": "sponsors/logos/cirrusidentity.png",
-     "what": "Doc Center"
-    },
- {"name": "Evernym",
-  "url": "http://www.evernym.com",
-  "logo": "sponsors/logos/evernym.png",
-  "what": "Documentation Center"
- }
+ //    {"name": "Auth0",
+//      "url": "https://www.auth0.com/",
+//      "logo": "sponsors/logos/auth0-logo-blue.png",
+//      "what": "Demo Hour"
+//     },
+// {"name": "Auth0",
+//   "url": "https://www.auth0.com/",
+//   "logo": "sponsors/logos/auth0-logo-blue.png?foo=1",
+//   "what": "Opening Reception"
+//  },
+//  {"name": "Yubico",
+//   "url": "https://www.yubico.com/", 
+//   "logo": "sponsors/logos/yubico.png",
+//   "what": "Tuesday Breakfast"
+//  },
+//  {"name": "Identity.com",
+//   "url": "http://www.identity.com",
+//   "logo": "sponsors/logos/iD_logo_vertical.png",
+//   "what": "Afternoon Break"
+//  },
+//     {"name": "Omidyar Network",
+//      "url": "https://www.omidyar.com/",
+//      "logo": "sponsors/logos/omidyar_network.png",
+//      "what": "Morning Break"
+//     },
+//     {"name": "Cirrus Identity",
+//      "url": "http://www.cirrusidentity.com/",
+//      "logo": "sponsors/logos/cirrusidentity.png",
+//      "what": "Doc Center"
+//     },
+//  {"name": "Evernym",
+//   "url": "http://www.evernym.com",
+//   "logo": "sponsors/logos/evernym.png",
+//   "what": "Documentation Center"
+//  }
  // {"name": "BIG",
  //  "url": "http://bigfintechmedia.com/",
  //  "logo": "sponsors/logos/big.png",
