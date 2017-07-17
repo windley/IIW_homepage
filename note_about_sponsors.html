@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Homepage for Internet Identity Workshop">
+    <meta name="author" content="Phil Windley">
+
+    <title>Internet Identity Workshop</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="css/bootstrap.css" rel="stylesheet">
+    <link href="css/metro-bootstrap.css" rel="stylesheet">
+
+    <!-- Custom CSS for the 'Full Width Pics' Template -->
+    <link href="css/full-width-pics.css" rel="stylesheet">
+</head>
+
+<body>
+
+
+    <nav class="navbar navbar-fixed-top navbar-inverse" role="navigation">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="/"><span style="color: #FA970C; font-size:22px">IIW</span></a>
+            </div>
+
+            <div class="collapse navbar-collapse navbar-ex1-collapse">
+                <ul class="nav navbar-nav">
+                    <li><a href="https://www.eventbrite.com/e/internet-identity-workshop-xxi-21-2015b-tickets-16995007525?utm_campaign=new_event_email&utm_medium=email&utm_source=eb_email&utm_term=viewmyevent_button"><span style="color:#2795CC">Register</span></a>
+                    </li>
+                    <li><a href="http://iiw.idcommons.net">IIW Wiki</a>
+                    </li>
+		    <li><a href="proceedings.html">Proceedings of Past IIWs</a>
+		    </li>
+                    <li><a href="index.html#sponsors">Sponsors</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+<a name="top"></a>
+    <div class="full-width-image-1">
+
+        <div class="logo-wrapper">
+           <a href="https://www.eventbrite.com/e/internet-identity-workshop-xxi-21-2015b-tickets-16995007525?utm_campaign=new_event_email&utm_medium=email&utm_source=eb_email&utm_term=viewmyevent_button">
+            <!-- <img class="img-responsive" src="img/iiw_logo_200x200.png" /> -->
+            <img class="img-responsive" src="img/IIW_logo_200x200.png" />
+           </a>
+        </div>
+
+    </div>
+    <!-- /full-width-image-1 -->
+
+<a href="https://www.eventbrite.com/e/internet-identity-workshop-xxi-21-2015b-tickets-16995007525?utm_campaign=new_event_email&utm_medium=email&utm_source=eb_email&utm_term=viewmyevent_button">
+    <div class="register-here">
+
+        <!-- <div class="logo-wrapper"> -->
+        <!--     <img class="img-responsive" src="img/iiw_logo_200x200.png" /> -->
+        <!-- </div> -->
+
+    </div>
+</a>
+    <!-- /full-width-image-1 -->
+
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 section">
+                <p>
+                    Doc Searls wrote the following about sponsors at IIW.
+                </p>
+
+                <p>
+                    The companies we call sponsors pay for food and other small graces such as power strips for the tables. We thank them for that, and put their logos on a banner by the door. As an ethical principle (again, not formalized, because we are not formal), “leaving your logo at the door” is key. The IIW community has always discouraged companies (whether or not as sponsors) from using IIW as anything more than a place to work on stuff people other than themselves might care about. Since IIW’s sessions consist entirely of breakouts, everybody with something to show or say gets plenty of pushback, or help, from others who participate. It’s about getting work done.
+                </p>
+
+                <p>
+                    First, IIW is an unconference. That doesn’t just mean it has no keynotes or panels, or even that it conforms to unconference norms. It means we have organization. IIW consists of three people — Kaliya, Phil and myself — who pay for expenses out of our pockets and pass our hats to cover expenses. We make no money from it. If some company wanted to buy IIW, there would be nothing to buy. There is no “there” there, other than three people who convene what amounts to a meeting at a museum, twice per year.
+                </p>
+
+                <p>
+                    Second, participants who also work for sponsoring companies are, generally speaking, geeks. They are not the people who run those companies, or do PR. It’s a workshop. Lots of code-filled conversations have started, or been stopped, at IIW. To a large degree conversation and work on sovereign (or self-sovereign) identity was started or grew at IIW, and cannot be traced to the work of any one company. (As I recall, it started with just one person: Devon Loffreto. He runs educational programs and a small company fostering kids working on their own code and owning their own lives online.) OAuth, UMA, my own ProjectVRM and many other worthy efforts have come out of IIW, or been helped by work that took place at one or more IIW sessions.
+                </p>
+
+                <p>
+                    Third, if IIW performs any service to large companies like Microsoft and Google, it is to help geeks working for those companies to apply the brakes to dumb or bad moves those companies are starting to make, or might make. In other words, I believe IIW sponsors are less influenced by IIW than they are influenced by it, through their own geeks who attend it. Example: Microsoft’s Hailstorm and Passport identity projects were put to sleep (I would claim), inside the company, by Kim Cameron, the Microsoft architect whose Laws of Identity were worked out in the earliest days of IIW, back in 2005.
+                </p>
+
+            </div>
+        </div>
+    </div>
+
+
+
+    <!-- FOOTER -->
+    <div class="container">
+        <footer>
+            <div class="row">
+                <div class="col-lg-12">
+                    Copyright &copy; Internet Identity Workshop 2015-2017
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    </div>
+    <!-- /container -->
+
+    <!-- JavaScript -->
+    <script src="js/jquery-1.10.2.js"></script>
+    <script src="js/bootstrap.js"></script>
+    <script src="js/handlebars-v1.3.0.js"></script>
+    <script src="sponsors/sponsors.js"></script>
+
+
+<script id="sponsor-template" type="text/x-handlebars-template">
+ <div class="col-sm-6 col-md-4">
+  <div class="thumbnail tile tile-double {{color}}">
+    <a href="{{url}}">
+     <img src="{{logo}}">
+     <h2>{{what}}</h2>
+    </a>
+  </div>
+ </div>
+</script>
+
+</body>
+
+</html>

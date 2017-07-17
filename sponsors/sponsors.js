@@ -9,17 +9,12 @@ var sponsors = [
      "url": "http://www.microsoft.com",
      "logo": "sponsors/logos/MSFT.png",
      "what": "Conference Dinner"
-    }
-    // {"name": "VMWare",
-    //  "url": "https://www.vmware.com/",
-    //  "logo": "sponsors/logos/vmware.png",
-    //  "what": "Barista"
-    // },
-    // {"name": "digi.me",
-    //  "url": "https://digi.me",
-    //  "logo": "sponsors/logos/digi.me-logo.png",
-    //  "what": "BBQ Lunch"
-    // },
+    },
+    {"name": "VMWare",
+     "url": "https://www.vmware.com/",
+     "logo": "sponsors/logos/vmware.png",
+     "what": "Barista"
+    },
     // {"name": "Kantara",
     //  "url": "https://kantarainitiative.org/",
     //  "logo": "sponsors/logos/logo_kantara.gif",
@@ -40,11 +35,16 @@ var sponsors = [
  //  "logo": "sponsors/logos/oracle.png",
  //  "what": "Lunch"
  // },
- // {"name": "Login with Amazon",
- //  "url": "http://login.amazon.com/",
- //  "logo": "sponsors/logos/login_with_amazon.png",
- //  "what": "Demo Hour"
- // },
+    {"name": "digi.me",
+     "url": "https://digi.me",
+     "logo": "sponsors/logos/digi.me-logo.png",
+     "what": "Tuesday Reception"
+    },
+    {"name": "Login with Amazon",
+     "url": "http://login.amazon.com/",
+     "logo": "sponsors/logos/login_with_amazon.png",
+     "what": "Demo Hour"
+    },
  //    {"name": "Auth0",
 //      "url": "https://www.auth0.com/",
 //      "logo": "sponsors/logos/auth0-logo-blue.png",
@@ -55,11 +55,11 @@ var sponsors = [
 //   "logo": "sponsors/logos/auth0-logo-blue.png?foo=1",
 //   "what": "Opening Reception"
 //  },
-//  {"name": "Yubico",
-//   "url": "https://www.yubico.com/", 
-//   "logo": "sponsors/logos/yubico.png",
-//   "what": "Tuesday Breakfast"
-//  },
+ {"name": "Yubico",
+  "url": "https://www.yubico.com/", 
+  "logo": "sponsors/logos/yubico.png",
+  "what": "Tuesday Breakfast"
+ }
 //  {"name": "Identity.com",
 //   "url": "http://www.identity.com",
 //   "logo": "sponsors/logos/iD_logo_vertical.png",
