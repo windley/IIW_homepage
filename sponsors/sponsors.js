@@ -94,7 +94,7 @@ var sponsors = [
  //  "url": "https://www.constellationr.com",
  //  "logo": "sponsors/logos/constellation-logo.png",
     //  "what":
-    "Doc Center"
+//    "Doc Center"
  // },
  // {"name": "Evernym",
  //  "url": "http://www.evernym.com",
