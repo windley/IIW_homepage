@@ -1,14 +1,19 @@
 
 var sponsors = [
-    {"name": "Google",
-     "url": "http://www.google.com",
-     "logo": "sponsors/logos/googlelogo_light_clr_160x56pxx.png",
-     "what": "Welcome Dinner" 
-    },
     {"name": "Microsoft",
      "url": "http://www.microsoft.com",
      "logo": "sponsors/logos/MSFT.png",
      "what": "Conference Dinner"
+    },
+    {"name": "Google",
+     "url": "http://www.google.com",
+     "logo": "sponsors/logos/googlelogo_light_clr_160x56pxx.png",
+     "what": "BBQ Lunch/Breakfast" 
+    },
+    {"name": "Reliable Identities",
+     "url": "http://www.reliableid.com",
+     "logo": "sponsors/logos/reliableid.png",
+     "what": "Welcome Dinner"
     },
     {"name": "VMWare",
      "url": "https://www.vmware.com/",
@@ -88,7 +93,8 @@ var sponsors = [
  // {"name": "Constellation Research",
  //  "url": "https://www.constellationr.com",
  //  "logo": "sponsors/logos/constellation-logo.png",
- //  "what": "Doc Center"
+    //  "what":
+    "Doc Center"
  // },
  // {"name": "Evernym",
  //  "url": "http://www.evernym.com",
