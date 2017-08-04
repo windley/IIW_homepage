@@ -40,6 +40,11 @@ var sponsors = [
  //  "logo": "sponsors/logos/oracle.png",
  //  "what": "Lunch"
  // },
+    {"name": "Capital One DevExchange",
+     "url": "https://developer.capitalone.com/",
+     "logo": "sponsors/logos/caponedx.png",
+     "what": "Conference Reception"
+    },
     {"name": "digi.me",
      "url": "https://digi.me",
      "logo": "sponsors/logos/digi.me-logo.png",
