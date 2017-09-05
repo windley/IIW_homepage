@@ -30,12 +30,17 @@ var sponsors = [
     //  "logo": "sponsors/logos/gigya.jpg",
     //  "what": "Power and Tables"
     // },
-    // {"name": "ForgeRock",
-    //  "url": "https://www.forgerock.com/",
-    //  "logo": "sponsors/logos/forgerock.png",
-    //  "what": "Opening Reception"
-    // },
- // {"name": "Oracle",
+    {"name": "ForgeRock",
+     "url": "https://www.forgerock.com/",
+     "logo": "sponsors/logos/forgerock.png",
+     "what": "Power and Tables"
+    },
+    {"name": "BIG",
+     "url": "http://bigfintechmedia.com/",
+     "logo": "sponsors/logos/big.png",
+     "what": "Lunch"
+    },
+    // {"name": "Oracle",
  //  "url": "https://oracle.com/",
  //  "logo": "sponsors/logos/oracle.png",
  //  "what": "Lunch"
@@ -69,12 +74,12 @@ var sponsors = [
   "url": "https://www.yubico.com/", 
   "logo": "sponsors/logos/yubico.png",
   "what": "Tuesday Breakfast"
+ },
+ {"name": "Identity.com",
+  "url": "http://www.identity.com",
+  "logo": "sponsors/logos/iD_logo_vertical.png",
+  "what": "Afternoon Break"
  }
-//  {"name": "Identity.com",
-//   "url": "http://www.identity.com",
-//   "logo": "sponsors/logos/iD_logo_vertical.png",
-//   "what": "Afternoon Break"
-//  },
 //     {"name": "Omidyar Network",
 //      "url": "https://www.omidyar.com/",
 //      "logo": "sponsors/logos/omidyar_network.png",
@@ -90,11 +95,6 @@ var sponsors = [
 //   "logo": "sponsors/logos/evernym.png",
 //   "what": "Documentation Center"
 //  }
- // {"name": "BIG",
- //  "url": "http://bigfintechmedia.com/",
- //  "logo": "sponsors/logos/big.png",
- //  "what": "Afternoon Break"
- // },
  // {"name": "Constellation Research",
  //  "url": "https://www.constellationr.com",
  //  "logo": "sponsors/logos/constellation-logo.png",
