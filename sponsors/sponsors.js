@@ -10,9 +10,9 @@ var sponsors = [
      "logo": "sponsors/logos/googlelogo_light_clr_160x56pxx.png",
      "what": "BBQ Lunch/Breakfast" 
     },
-    {"name": "Reliable Identities",
-     "url": "http://www.reliableid.com",
-     "logo": "sponsors/logos/reliableid.png",
+    {"name": "City of Osmio",
+     "url": "http://www.osmio.ch/",
+     "logo": "sponsors/logos/osmio-seal.png",
      "what": "Welcome Dinner"
     },
     {"name": "VMWare",
