@@ -20,6 +20,11 @@ var sponsors = [
      "logo": "sponsors/logos/vmware.png",
      "what": "Barista"
     },
+    {"name": "Hyperledger",
+     "url": "https://hyperledger.org/",
+     "logo": "sponsors/logos/Hyperledger_Logo_Tagline.png",
+     "what": "Projectors"
+    },
     // {"name": "Kantara",
     //  "url": "https://kantarainitiative.org/",
     //  "logo": "sponsors/logos/logo_kantara.gif",
@@ -70,16 +75,21 @@ var sponsors = [
 //   "logo": "sponsors/logos/auth0-logo-blue.png?foo=1",
 //   "what": "Opening Reception"
 //  },
- {"name": "Yubico",
-  "url": "https://www.yubico.com/", 
-  "logo": "sponsors/logos/yubico.png",
-  "what": "Tuesday Breakfast"
- },
- {"name": "Identity.com",
-  "url": "http://www.identity.com",
-  "logo": "sponsors/logos/iD_logo_vertical.png",
-  "what": "Afternoon Break"
- }
+    {"name": "Yubico",
+     "url": "https://www.yubico.com/", 
+     "logo": "sponsors/logos/yubico.png",
+     "what": "Breakfast"
+    },
+    {"name": "Evernym",
+      "url": "http://www.evernym.com",
+      "logo": "sponsors/logos/evernym.png",
+      "what": "Breakfast"
+     },
+    {"name": "Identity.com",       // 
+     "url": "http://www.identity.com",
+     "logo": "sponsors/logos/iD_logo_vertical.png",
+     "what": "Afternoon Break"
+    }
 //     {"name": "Omidyar Network",
 //      "url": "https://www.omidyar.com/",
 //      "logo": "sponsors/logos/omidyar_network.png",
@@ -90,11 +100,6 @@ var sponsors = [
 //      "logo": "sponsors/logos/cirrusidentity.png",
 //      "what": "Doc Center"
 //     },
-//  {"name": "Evernym",
-//   "url": "http://www.evernym.com",
-//   "logo": "sponsors/logos/evernym.png",
-//   "what": "Documentation Center"
-//  }
  // {"name": "Constellation Research",
  //  "url": "https://www.constellationr.com",
  //  "logo": "sponsors/logos/constellation-logo.png",
