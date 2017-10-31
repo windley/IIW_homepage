@@ -1,30 +1,30 @@
 
 var sponsors = [
-    {"name": "Microsoft",
-     "url": "http://www.microsoft.com",
-     "logo": "sponsors/logos/MSFT.png",
-     "what": "Conference Dinner"
-    },
-    {"name": "Google",
-     "url": "http://www.google.com",
-     "logo": "sponsors/logos/googlelogo_light_clr_160x56pxx.png",
-     "what": "BBQ Lunch/Breakfast" 
-    },
-    {"name": "City of Osmio",
-     "url": "http://www.osmio.ch/",
-     "logo": "sponsors/logos/osmio-seal.png",
-     "what": "Welcome Dinner"
-    },
-    {"name": "VMWare",
-     "url": "https://www.vmware.com/",
-     "logo": "sponsors/logos/vmware.png",
-     "what": "Barista"
-    },
-    {"name": "Hyperledger",
-     "url": "https://hyperledger.org/",
-     "logo": "sponsors/logos/Hyperledger_Logo_Tagline.png",
-     "what": "Projectors"
-    },
+    // {"name": "Microsoft",
+    //  "url": "http://www.microsoft.com",
+    //  "logo": "sponsors/logos/MSFT.png",
+    //  "what": "Conference Dinner"
+    // },
+    // {"name": "Google",
+    //  "url": "http://www.google.com",
+    //  "logo": "sponsors/logos/googlelogo_light_clr_160x56pxx.png",
+    //  "what": "BBQ Lunch/Breakfast" 
+    // },
+    // {"name": "City of Osmio",
+    //  "url": "http://www.osmio.ch/",
+    //  "logo": "sponsors/logos/osmio-seal.png",
+    //  "what": "Welcome Dinner"
+    // },
+    // {"name": "VMWare",
+    //  "url": "https://www.vmware.com/",
+    //  "logo": "sponsors/logos/vmware.png",
+    //  "what": "Barista"
+    // },
+    // {"name": "Hyperledger",
+    //  "url": "https://hyperledger.org/",
+    //  "logo": "sponsors/logos/Hyperledger_Logo_Tagline.png",
+    //  "what": "Projectors"
+    //},
     // {"name": "Kantara",
     //  "url": "https://kantarainitiative.org/",
     //  "logo": "sponsors/logos/logo_kantara.gif",
@@ -35,36 +35,36 @@ var sponsors = [
     //  "logo": "sponsors/logos/gigya.jpg",
     //  "what": "Power and Tables"
     // },
-    {"name": "ForgeRock",
-     "url": "https://www.forgerock.com/",
-     "logo": "sponsors/logos/forgerock.png",
-     "what": "Power and Tables"
-    },
-    {"name": "BIG",
-     "url": "http://bigfintechmedia.com/",
-     "logo": "sponsors/logos/big.png",
-     "what": "Lunch"
-    },
+    // {"name": "ForgeRock",
+    //  "url": "https://www.forgerock.com/",
+    //  "logo": "sponsors/logos/forgerock.png",
+    //  "what": "Power and Tables"
+    // },
+    // {"name": "BIG",
+    //  "url": "http://bigfintechmedia.com/",
+    //  "logo": "sponsors/logos/big.png",
+    //  "what": "Lunch"
+    // },
     // {"name": "Oracle",
  //  "url": "https://oracle.com/",
  //  "logo": "sponsors/logos/oracle.png",
  //  "what": "Lunch"
  // },
-    {"name": "Capital One DevExchange",
-     "url": "https://developer.capitalone.com/",
-     "logo": "sponsors/logos/caponedx.png",
-     "what": "Conference Reception"
-    },
-    {"name": "digi.me",
-     "url": "https://digi.me",
-     "logo": "sponsors/logos/digi.me-logo.png",
-     "what": "Tuesday Reception"
-    },
-    {"name": "Login with Amazon",
-     "url": "http://login.amazon.com/",
-     "logo": "sponsors/logos/login_with_amazon.png",
-     "what": "Demo Hour"
-    },
+    // {"name": "Capital One DevExchange",
+    //  "url": "https://developer.capitalone.com/",
+    //  "logo": "sponsors/logos/caponedx.png",
+    //  "what": "Conference Reception"
+    // },
+    // {"name": "digi.me",
+    //  "url": "https://digi.me",
+    //  "logo": "sponsors/logos/digi.me-logo.png",
+    //  "what": "Tuesday Reception"
+    // },
+    // {"name": "Login with Amazon",
+    //  "url": "http://login.amazon.com/",
+    //  "logo": "sponsors/logos/login_with_amazon.png",
+    //  "what": "Demo Hour"
+    // },
  //    {"name": "Auth0",
 //      "url": "https://www.auth0.com/",
 //      "logo": "sponsors/logos/auth0-logo-blue.png",
@@ -75,21 +75,21 @@ var sponsors = [
 //   "logo": "sponsors/logos/auth0-logo-blue.png?foo=1",
 //   "what": "Opening Reception"
 //  },
-    {"name": "Yubico",
-     "url": "https://www.yubico.com/", 
-     "logo": "sponsors/logos/yubico.png",
-     "what": "Breakfast"
-    },
-    {"name": "Evernym",
-      "url": "http://www.evernym.com",
-      "logo": "sponsors/logos/evernym.png",
-      "what": "Breakfast"
-     },
-    {"name": "Identity.com",       // 
-     "url": "http://www.identity.com",
-     "logo": "sponsors/logos/iD_logo_vertical.png",
-     "what": "Afternoon Break"
-    }
+    // {"name": "Yubico",
+    //  "url": "https://www.yubico.com/", 
+    //  "logo": "sponsors/logos/yubico.png",
+    //  "what": "Breakfast"
+    // },
+    // {"name": "Evernym",
+    //   "url": "http://www.evernym.com",
+    //   "logo": "sponsors/logos/evernym.png",
+    //   "what": "Breakfast"
+    //  },
+    // {"name": "Identity.com",       // 
+    //  "url": "http://www.identity.com",
+    //  "logo": "sponsors/logos/iD_logo_vertical.png",
+    //  "what": "Afternoon Break"
+    // }
 //     {"name": "Omidyar Network",
 //      "url": "https://www.omidyar.com/",
 //      "logo": "sponsors/logos/omidyar_network.png",
