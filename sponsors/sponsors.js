@@ -1,10 +1,10 @@
 
 var sponsors = [
-    // {"name": "Microsoft",
-    //  "url": "http://www.microsoft.com",
-    //  "logo": "sponsors/logos/MSFT.png",
-    //  "what": "Conference Dinner"
-    // },
+    {"name": "Microsoft",
+     "url": "http://www.microsoft.com",
+     "logo": "sponsors/logos/MSFT.png",
+     "what": "Conference Dinner"
+    },
     // {"name": "Google",
     //  "url": "http://www.google.com",
     //  "logo": "sponsors/logos/googlelogo_light_clr_160x56pxx.png",
@@ -15,10 +15,15 @@ var sponsors = [
     //  "logo": "sponsors/logos/osmio-seal.png",
     //  "what": "Welcome Dinner"
     // },
-    // {"name": "VMWare",
-    //  "url": "https://www.vmware.com/",
-    //  "logo": "sponsors/logos/vmware.png",
-    //  "what": "Barista"
+    {"name": "IEEE",
+     "url": "https://www.ieee.org/",
+     "logo": "sponsors/logos/ieee.jpg",
+     "what": "Barista"
+    },
+    // {"name": "Microsoft",
+    //  "url": "http://www.microsoft.com",
+    //  "logo": "sponsors/logos/MSFT.png",
+    //  "what": "Conference Dinner"
     // },
     // {"name": "Hyperledger",
     //  "url": "https://hyperledger.org/",
@@ -75,11 +80,11 @@ var sponsors = [
 //   "logo": "sponsors/logos/auth0-logo-blue.png?foo=1",
 //   "what": "Opening Reception"
 //  },
-    // {"name": "Yubico",
-    //  "url": "https://www.yubico.com/", 
-    //  "logo": "sponsors/logos/yubico.png",
-    //  "what": "Breakfast"
-    // },
+    {"name": "Yubico",
+     "url": "https://www.yubico.com/", 
+     "logo": "sponsors/logos/yubico.png",
+     "what": "Breakfast"
+    }
     // {"name": "Evernym",
     //   "url": "http://www.evernym.com",
     //   "logo": "sponsors/logos/evernym.png",
