@@ -19,6 +19,11 @@ var sponsors = [
      "url": "https://www.ieee.org/",
      "logo": "sponsors/logos/ieee.jpg",
      "what": "Barista"
+    }, 
+    {"name": "Veridium",
+     "url": "https://www.veridium.com/",
+     "logo": "sponsors/logos/veridium.png",
+     "what": "Power and Tables"
     },
     // {"name": "Microsoft",
     //  "url": "http://www.microsoft.com",
