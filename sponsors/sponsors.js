@@ -21,7 +21,7 @@ var sponsors = [
      "what": "Barista"
     }, 
     {"name": "Veridium",
-     "url": "https://www.veridium.com/",
+     "url": "https://www.veridiumid.com/",
      "logo": "sponsors/logos/veridium.png",
      "what": "Power and Tables"
     },
