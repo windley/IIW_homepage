@@ -45,11 +45,16 @@ var sponsors = [
     //  "logo": "sponsors/logos/gigya.jpg",
     //  "what": "Power and Tables"
     // },
-    // {"name": "ForgeRock",
-    //  "url": "https://www.forgerock.com/",
-    //  "logo": "sponsors/logos/forgerock.png",
-    //  "what": "Power and Tables"
-    // },
+    {"name": "Sovrin Foundation",
+     "url": "http://www.sovrin.org",
+     "logo": "sponsors/logos/sovrin.png",
+     "what": "Premiere Lunch"
+    },
+    {"name": "ForgeRock",
+     "url": "https://www.forgerock.com/",
+     "logo": "sponsors/logos/forgerock.png",
+     "what": "Breakfasts"
+    },
     // {"name": "BIG",
     //  "url": "http://bigfintechmedia.com/",
     //  "logo": "sponsors/logos/big.png",
@@ -90,11 +95,11 @@ var sponsors = [
      "logo": "sponsors/logos/yubico.png",
      "what": "Breakfast"
     }
-    // {"name": "Evernym",
-    //   "url": "http://www.evernym.com",
-    //   "logo": "sponsors/logos/evernym.png",
-    //   "what": "Breakfast"
-    //  },
+    {"name": "Evernym",
+      "url": "http://www.evernym.com",
+      "logo": "sponsors/logos/evernym.png",
+      "what": "Open Gifting"
+     },
     // {"name": "Identity.com",       // 
     //  "url": "http://www.identity.com",
     //  "logo": "sponsors/logos/iD_logo_vertical.png",
