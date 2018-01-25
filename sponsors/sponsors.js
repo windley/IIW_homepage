@@ -94,7 +94,7 @@ var sponsors = [
      "url": "https://www.yubico.com/", 
      "logo": "sponsors/logos/yubico.png",
      "what": "Breakfast"
-    }
+    },
     {"name": "Evernym",
       "url": "http://www.evernym.com",
       "logo": "sponsors/logos/evernym.png",
