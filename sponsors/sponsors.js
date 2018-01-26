@@ -70,11 +70,11 @@ var sponsors = [
     //  "logo": "sponsors/logos/caponedx.png",
     //  "what": "Conference Reception"
     // },
-    // {"name": "digi.me",
-    //  "url": "https://digi.me",
-    //  "logo": "sponsors/logos/digi.me-logo.png",
-    //  "what": "Tuesday Reception"
-    // },
+    {"name": "digi.me",
+     "url": "https://digi.me",
+     "logo": "sponsors/logos/digi.me-logo.png",
+     "what": "Demo Hour"
+    },
     // {"name": "Login with Amazon",
     //  "url": "http://login.amazon.com/",
     //  "logo": "sponsors/logos/login_with_amazon.png",
@@ -100,11 +100,11 @@ var sponsors = [
       "logo": "sponsors/logos/evernym.png",
       "what": "Open Gifting"
      },
-    // {"name": "Identity.com",       // 
-    //  "url": "http://www.identity.com",
-    //  "logo": "sponsors/logos/iD_logo_vertical.png",
-    //  "what": "Afternoon Break"
-    // }
+    {"name": "Identity.com",       // 
+     "url": "http://www.identity.com",
+     "logo": "sponsors/logos/iD_logo_vertical.png",
+     "what": "Afternoon Break"
+    }
 //     {"name": "Omidyar Network",
 //      "url": "https://www.omidyar.com/",
 //      "logo": "sponsors/logos/omidyar_network.png",
