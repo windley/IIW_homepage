@@ -70,16 +70,16 @@ var sponsors = [
     //  "logo": "sponsors/logos/caponedx.png",
     //  "what": "Conference Reception"
     // },
-    {"name": "digi.me",
+    {"name": "Login with Amazon",
+     "url": "http://login.amazon.com/",
+     "logo": "sponsors/logos/login_with_amazon.png",
+     "what": "Tuesday Reception"
+   },
+    {"name": "digi.me",         // 
      "url": "https://digi.me",
      "logo": "sponsors/logos/digi.me-logo.png",
      "what": "Demo Hour"
     },
-    // {"name": "Login with Amazon",
-    //  "url": "http://login.amazon.com/",
-    //  "logo": "sponsors/logos/login_with_amazon.png",
-    //  "what": "Demo Hour"
-    // },
  //    {"name": "Auth0",
 //      "url": "https://www.auth0.com/",
 //      "logo": "sponsors/logos/auth0-logo-blue.png",
