@@ -104,37 +104,6 @@ var sponsors = [
      "url": "http://www.identity.com",
      "logo": "sponsors/logos/iD_logo_vertical.png",
      "what": "Afternoon Break"
-    }
-},
-    {"name": "digi.me",         // 
-     "url": "https://digi.me",
-     "logo": "sponsors/logos/digi.me-logo.png",
-     "what": "Demo Hour"
-    },
- //    {"name": "Auth0",
-//      "url": "https://www.auth0.com/",
-//      "logo": "sponsors/logos/auth0-logo-blue.png",
-//      "what": "Demo Hour"
-//     },
-// {"name": "Auth0",
-//   "url": "https://www.auth0.com/",
-//   "logo": "sponsors/logos/auth0-logo-blue.png?foo=1",
-//   "what": "Opening Reception"
-//  },
-    {"name": "Yubico",
-     "url": "https://www.yubico.com/", 
-     "logo": "sponsors/logos/yubico.png",
-     "what": "Breakfast"
-    },
-    {"name": "Evernym",
-      "url": "http://www.evernym.com",
-      "logo": "sponsors/logos/evernym.png",
-      "what": "Open Gifting"
-     },
-    {"name": "Identity.com",       // 
-     "url": "http://www.identity.com",
-     "logo": "sponsors/logos/iD_logo_vertical.png",
-     "what": "Afternoon Break"
     },
     {"name": "uPort",       // 
      "url": "http://uport.me",
@@ -180,7 +149,7 @@ var sponsors = [
  // {"name": "Mozilla Foundation",
  //  "url": "https://www.mozilla.org",
  //  "logo": "sponsors/logos/mozilla_wordmark.png",
- //  "what": "Tables & Power, Welcome Reception" 
+ //  "108what": "Tables & Power, Welcome Reception" 
  // },
  // {"name": "Nexus Group",
  //  "url": "https://www.nexusgroup.com/",
