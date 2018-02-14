@@ -105,6 +105,47 @@ var sponsors = [
      "logo": "sponsors/logos/iD_logo_vertical.png",
      "what": "Afternoon Break"
     }
+},
+    {"name": "digi.me",         // 
+     "url": "https://digi.me",
+     "logo": "sponsors/logos/digi.me-logo.png",
+     "what": "Demo Hour"
+    },
+ //    {"name": "Auth0",
+//      "url": "https://www.auth0.com/",
+//      "logo": "sponsors/logos/auth0-logo-blue.png",
+//      "what": "Demo Hour"
+//     },
+// {"name": "Auth0",
+//   "url": "https://www.auth0.com/",
+//   "logo": "sponsors/logos/auth0-logo-blue.png?foo=1",
+//   "what": "Opening Reception"
+//  },
+    {"name": "Yubico",
+     "url": "https://www.yubico.com/", 
+     "logo": "sponsors/logos/yubico.png",
+     "what": "Breakfast"
+    },
+    {"name": "Evernym",
+      "url": "http://www.evernym.com",
+      "logo": "sponsors/logos/evernym.png",
+      "what": "Open Gifting"
+     },
+    {"name": "Identity.com",       // 
+     "url": "http://www.identity.com",
+     "logo": "sponsors/logos/iD_logo_vertical.png",
+     "what": "Afternoon Break"
+    },
+    {"name": "uPort",       // 
+     "url": "http://uport.me",
+     "logo": "sponsors/logos/uport.png",
+     "what": "Afternoon Break"
+    }
+//     {"name": "Omidyar Network",
+//      "url": "https://www.omidyar.com/",
+//      "logo": "sponsors/logos/omidyar_network.png",
+//      "what": "Morning Break"
+//     },
 //     {"name": "Omidyar Network",
 //      "url": "https://www.omidyar.com/",
 //      "logo": "sponsors/logos/omidyar_network.png",
