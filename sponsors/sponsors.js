@@ -5,11 +5,11 @@ var sponsors = [
      "logo": "sponsors/logos/MSFT.png",
      "what": "Conference Dinner"
     },
-    // {"name": "Google",
-    //  "url": "http://www.google.com",
-    //  "logo": "sponsors/logos/googlelogo_light_clr_160x56pxx.png",
-    //  "what": "BBQ Lunch/Breakfast" 
-    // },
+    {"name": "Google",
+     "url": "http://www.google.com",
+     "logo": "sponsors/logos/googlelogo_light_clr_160x56pxx.png",
+     "what": "BBQ Lunch/Breakfast" 
+    },
     // {"name": "City of Osmio",
     //  "url": "http://www.osmio.ch/",
     //  "logo": "sponsors/logos/osmio-seal.png",
