@@ -8,7 +8,7 @@ var sponsors = [
     {"name": "Google",
      "url": "http://www.google.com",
      "logo": "sponsors/logos/googlelogo_light_clr_160x56pxx.png",
-     "what": "BBQ Lunch/Breakfast" 
+     "what": "Conference Dinner" 
     },
     // {"name": "City of Osmio",
     //  "url": "http://www.osmio.ch/",
