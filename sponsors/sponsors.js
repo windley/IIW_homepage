@@ -8,7 +8,7 @@ var sponsors = [
     {"name": "Google",
      "url": "http://www.google.com",
      "logo": "sponsors/logos/googlelogo_light_clr_160x56pxx.png",
-     "what": "Conference Dinner" 
+     "what": "Tuesday Dinner" 
     },
     // {"name": "City of Osmio",
     //  "url": "http://www.osmio.ch/",
@@ -25,11 +25,6 @@ var sponsors = [
      "logo": "sponsors/logos/veridium.png",
      "what": "Power and Tables"
     },
-    // {"name": "Microsoft",
-    //  "url": "http://www.microsoft.com",
-    //  "logo": "sponsors/logos/MSFT.png",
-    //  "what": "Conference Dinner"
-    // },
     // {"name": "Hyperledger",
     //  "url": "https://hyperledger.org/",
     //  "logo": "sponsors/logos/Hyperledger_Logo_Tagline.png",
@@ -65,11 +60,11 @@ var sponsors = [
  //  "logo": "sponsors/logos/oracle.png",
  //  "what": "Lunch"
  // },
-    // {"name": "Capital One DevExchange",
-    //  "url": "https://developer.capitalone.com/",
-    //  "logo": "sponsors/logos/caponedx.png",
-    //  "what": "Conference Reception"
-    // },
+    {"name": "IBM",
+     "url": "https://developer.capitalone.com/",
+     "logo": "sponsors/logos/ibm.png",
+     "what": "Conference Reception"
+    },
     {"name": "Login with Amazon",
      "url": "http://login.amazon.com/",
      "logo": "sponsors/logos/login_with_amazon.png",
