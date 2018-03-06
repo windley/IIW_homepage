@@ -61,7 +61,7 @@ var sponsors = [
  //  "what": "Lunch"
  // },
     {"name": "IBM",
-     "url": "https://developer.capitalone.com/",
+     "url": "https://ibm.com/",
      "logo": "sponsors/logos/ibm.png",
      "what": "Conference Reception"
     },
