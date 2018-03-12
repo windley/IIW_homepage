@@ -104,22 +104,27 @@ var sponsors = [
      "url": "http://uport.me",
      "logo": "sponsors/logos/uport.png",
      "what": "Afternoon Break"
+    },
+//     {"name": "Omidyar Network",
+//      "url": "https://www.omidyar.com/",
+//      "logo": "sponsors/logos/omidyar_network.png",
+//      "what": "Morning Break"
+//     },
+//     {"name": "Omidyar Network",
+//      "url": "https://www.omidyar.com/",
+//      "logo": "sponsors/logos/omidyar_network.png",
+//      "what": "Morning Break"
+//     },
+    {"name": "Cirrus Identity",
+     "url": "http://www.cirrusidentity.com/",
+     "logo": "sponsors/logos/cirrusidentity.png",
+     "what": "Doc Center"
+    },
+    {"name": "Internet Bar Institute",
+     "url": "http://www.internetbar.org/",
+     "logo": "sponsors/logos/ibo-logo.jpg",
+     "what": "Doc Center"
     }
-//     {"name": "Omidyar Network",
-//      "url": "https://www.omidyar.com/",
-//      "logo": "sponsors/logos/omidyar_network.png",
-//      "what": "Morning Break"
-//     },
-//     {"name": "Omidyar Network",
-//      "url": "https://www.omidyar.com/",
-//      "logo": "sponsors/logos/omidyar_network.png",
-//      "what": "Morning Break"
-//     },
-//     {"name": "Cirrus Identity",
-//      "url": "http://www.cirrusidentity.com/",
-//      "logo": "sponsors/logos/cirrusidentity.png",
-//      "what": "Doc Center"
-//     },
  // {"name": "Constellation Research",
  //  "url": "https://www.constellationr.com",
  //  "logo": "sponsors/logos/constellation-logo.png",
