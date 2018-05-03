@@ -8,23 +8,23 @@ var sponsors = [
     {"name": "Google",
      "url": "http://www.google.com",
      "logo": "sponsors/logos/googlelogo_light_clr_160x56pxx.png",
-     "what": "Tuesday Dinner" 
-    },
+     "what": " " 
+    }
     // {"name": "City of Osmio",
     //  "url": "http://www.osmio.ch/",
     //  "logo": "sponsors/logos/osmio-seal.png",
     //  "what": "Welcome Dinner"
     // },
-    {"name": "IEEE",
-     "url": "https://www.ieee.org/",
-     "logo": "sponsors/logos/ieee.jpg",
-     "what": "Barista"
-    }, 
-    {"name": "Veridium",
-     "url": "https://www.veridiumid.com/",
-     "logo": "sponsors/logos/veridium.png",
-     "what": "Power and Tables"
-    },
+    // {"name": "IEEE",
+    //  "url": "https://www.ieee.org/",
+    //  "logo": "sponsors/logos/ieee.jpg",
+    //  "what": "Barista"
+    // }, 
+    // {"name": "Veridium",
+    //  "url": "https://www.veridiumid.com/",
+    //  "logo": "sponsors/logos/veridium.png",
+    //  "what": "Power and Tables"
+    // },
     // {"name": "Hyperledger",
     //  "url": "https://hyperledger.org/",
     //  "logo": "sponsors/logos/Hyperledger_Logo_Tagline.png",
@@ -40,16 +40,16 @@ var sponsors = [
     //  "logo": "sponsors/logos/gigya.jpg",
     //  "what": "Power and Tables"
     // },
-    {"name": "Sovrin Foundation",
-     "url": "http://www.sovrin.org",
-     "logo": "sponsors/logos/sovrin.png",
-     "what": "Premiere Lunch"
-    },
-    {"name": "ForgeRock",
-     "url": "https://www.forgerock.com/",
-     "logo": "sponsors/logos/forgerock.png",
-     "what": "Breakfasts"
-    },
+    // {"name": "Sovrin Foundation",
+    //  "url": "http://www.sovrin.org",
+    //  "logo": "sponsors/logos/sovrin.png",
+    //  "what": "Premiere Lunch"
+    // },
+    // {"name": "ForgeRock",
+    //  "url": "https://www.forgerock.com/",
+    //  "logo": "sponsors/logos/forgerock.png",
+    //  "what": "Breakfasts"
+    // },
     // {"name": "BIG",
     //  "url": "http://bigfintechmedia.com/",
     //  "logo": "sponsors/logos/big.png",
@@ -60,21 +60,21 @@ var sponsors = [
  //  "logo": "sponsors/logos/oracle.png",
  //  "what": "Lunch"
  // },
-    {"name": "IBM",
-     "url": "https://ibm.com/",
-     "logo": "sponsors/logos/ibm.png",
-     "what": "Conference Reception"
-    },
-    {"name": "Login with Amazon",
-     "url": "http://login.amazon.com/",
-     "logo": "sponsors/logos/login_with_amazon.png",
-     "what": "Tuesday Reception"
-   },
-    {"name": "digi.me",         // 
-     "url": "https://digi.me",
-     "logo": "sponsors/logos/digi.me-logo.png",
-     "what": "Demo Hour"
-    },
+   //  {"name": "IBM",
+   //   "url": "https://ibm.com/",
+   //   "logo": "sponsors/logos/ibm.png",
+   //   "what": "Conference Reception"
+   //  },
+   //  {"name": "Login with Amazon",
+   //   "url": "http://login.amazon.com/",
+   //   "logo": "sponsors/logos/login_with_amazon.png",
+   //   "what": "Tuesday Reception"
+   // },
+   //  {"name": "digi.me",         // 
+   //   "url": "https://digi.me",
+   //   "logo": "sponsors/logos/digi.me-logo.png",
+   //   "what": "Demo Hour"
+   //  },
  //    {"name": "Auth0",
 //      "url": "https://www.auth0.com/",
 //      "logo": "sponsors/logos/auth0-logo-blue.png",
@@ -85,26 +85,26 @@ var sponsors = [
 //   "logo": "sponsors/logos/auth0-logo-blue.png?foo=1",
 //   "what": "Opening Reception"
 //  },
-    {"name": "Yubico",
-     "url": "https://www.yubico.com/", 
-     "logo": "sponsors/logos/yubico.png",
-     "what": "Breakfast"
-    },
-    {"name": "Evernym",
-      "url": "http://www.evernym.com",
-      "logo": "sponsors/logos/evernym.png",
-      "what": "Open Gifting"
-     },
-    {"name": "Identity.com",       // 
-     "url": "http://www.identity.com",
-     "logo": "sponsors/logos/iD_logo_vertical.png",
-     "what": "Afternoon Break"
-    },
-    {"name": "uPort",       // 
-     "url": "http://uport.me",
-     "logo": "sponsors/logos/uport.png",
-     "what": "Afternoon Break"
-    },
+    // {"name": "Yubico",
+    //  "url": "https://www.yubico.com/", 
+    //  "logo": "sponsors/logos/yubico.png",
+    //  "what": "Breakfast"
+    // },
+    // {"name": "Evernym",
+    //   "url": "http://www.evernym.com",
+    //   "logo": "sponsors/logos/evernym.png",
+    //   "what": "Open Gifting"
+    //  },
+    // {"name": "Identity.com",       // 
+    //  "url": "http://www.identity.com",
+    //  "logo": "sponsors/logos/iD_logo_vertical.png",
+    //  "what": "Afternoon Break"
+    // },
+    // {"name": "uPort",       // 
+    //  "url": "http://uport.me",
+    //  "logo": "sponsors/logos/uport.png",
+    //  "what": "Afternoon Break"
+    // },
 //     {"name": "Omidyar Network",
 //      "url": "https://www.omidyar.com/",
 //      "logo": "sponsors/logos/omidyar_network.png",
@@ -115,16 +115,16 @@ var sponsors = [
 //      "logo": "sponsors/logos/omidyar_network.png",
 //      "what": "Morning Break"
 //     },
-    {"name": "Cirrus Identity",
-     "url": "http://www.cirrusidentity.com/",
-     "logo": "sponsors/logos/cirrusidentity.png",
-     "what": "Doc Center"
-    },
-    {"name": "Internet Bar Institute",
-     "url": "http://www.internetbar.org/",
-     "logo": "sponsors/logos/ibo-logo.jpg",
-     "what": "Doc Center"
-    }
+    // {"name": "Cirrus Identity",
+    //  "url": "http://www.cirrusidentity.com/",
+    //  "logo": "sponsors/logos/cirrusidentity.png",
+    //  "what": "Doc Center"
+    // },
+    // {"name": "Internet Bar Institute",
+    //  "url": "http://www.internetbar.org/",
+    //  "logo": "sponsors/logos/ibo-logo.jpg",
+    //  "what": "Doc Center"
+    // }
  // {"name": "Constellation Research",
  //  "url": "https://www.constellationr.com",
  //  "logo": "sponsors/logos/constellation-logo.png",
