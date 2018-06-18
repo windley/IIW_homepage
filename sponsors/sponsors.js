@@ -9,17 +9,17 @@ var sponsors = [
      "url": "http://www.google.com",
      "logo": "sponsors/logos/googlelogo_light_clr_160x56pxx.png",
      "what": " " 
-    }
+    },
     // {"name": "City of Osmio",
     //  "url": "http://www.osmio.ch/",
     //  "logo": "sponsors/logos/osmio-seal.png",
     //  "what": "Welcome Dinner"
     // },
-    // {"name": "IEEE",
-    //  "url": "https://www.ieee.org/",
-    //  "logo": "sponsors/logos/ieee.jpg",
-    //  "what": "Barista"
-    // }, 
+    {"name": "VMWare",
+     "url": "https://www.vmware.com/",
+     "logo": "sponsors/logos/vmware.png",
+     "what": "Barista"
+    }
     // {"name": "Veridium",
     //  "url": "https://www.veridiumid.com/",
     //  "logo": "sponsors/logos/veridium.png",
