@@ -19,12 +19,13 @@ var sponsors = [
      "url": "https://www.vmware.com/",
      "logo": "sponsors/logos/vmware.png",
      "what": "Barista"
-    }
-    // {"name": "Veridium",
-    //  "url": "https://www.veridiumid.com/",
-    //  "logo": "sponsors/logos/veridium.png",
-    //  "what": "Power and Tables"
-    // },
+    },
+   
+ {"name": "CULedger",
+     "url": "https://www.culedger.com/",
+     "logo": "sponsors/logos/culedger.png",
+     "what": "Projectors"
+    },
     // {"name": "Hyperledger",
     //  "url": "https://hyperledger.org/",
     //  "logo": "sponsors/logos/Hyperledger_Logo_Tagline.png",
@@ -32,6 +33,7 @@ var sponsors = [
     //},
     // {"name": "Kantara",
     //  "url": "https://kantarainitiative.org/",
+
     //  "logo": "sponsors/logos/logo_kantara.gif",
     //  "what": "Projectors"
     // },
@@ -60,11 +62,11 @@ var sponsors = [
  //  "logo": "sponsors/logos/oracle.png",
  //  "what": "Lunch"
  // },
-   //  {"name": "IBM",
-   //   "url": "https://ibm.com/",
-   //   "logo": "sponsors/logos/ibm.png",
-   //   "what": "Conference Reception"
-   //  },
+    {"name": "IBM",
+     "url": "https://ibm.com/",
+     "logo": "sponsors/logos/ibm.png",
+     "what": "Conference Reception"
+    },
    //  {"name": "Login with Amazon",
    //   "url": "http://login.amazon.com/",
    //   "logo": "sponsors/logos/login_with_amazon.png",
@@ -90,11 +92,11 @@ var sponsors = [
     //  "logo": "sponsors/logos/yubico.png",
     //  "what": "Breakfast"
     // },
-    // {"name": "Evernym",
-    //   "url": "http://www.evernym.com",
-    //   "logo": "sponsors/logos/evernym.png",
-    //   "what": "Open Gifting"
-    //  },
+    {"name": "Evernym",
+      "url": "http://www.evernym.com",
+      "logo": "sponsors/logos/evernym.png",
+      "what": "Breakfast"
+     },
     // {"name": "Identity.com",       // 
     //  "url": "http://www.identity.com",
     //  "logo": "sponsors/logos/iD_logo_vertical.png",
@@ -130,12 +132,7 @@ var sponsors = [
  //  "logo": "sponsors/logos/constellation-logo.png",
     //  "what":
 //    "Doc Center"
- // },
- // {"name": "Evernym",
- //  "url": "http://www.evernym.com",
- //  "logo": "sponsors/logos/evernym.png",
- //  "what": "Gifting"
- // }
+    // },
  // {"name": "AOL",
  //  "url": "https://www.aol.com/", 
  //  "logo": "sponsors/logos/Aol.white.png",
@@ -146,20 +143,15 @@ var sponsors = [
  //  "logo": "sponsors/logos/wso2.png",
  //  "what": "Morning Break"
  // },
+    {"name": "VeridiumID",
+     "url": "https://www.veridiumid.com/",
+     "logo": "sponsors/logos/veridium.png",
+     "what": "Gifting"
+    }
  // {"name": "Mozilla Foundation",
  //  "url": "https://www.mozilla.org",
  //  "logo": "sponsors/logos/mozilla_wordmark.png",
  //  "108what": "Tables & Power, Welcome Reception" 
- // },
- // {"name": "Nexus Group",
- //  "url": "https://www.nexusgroup.com/",
- //  "logo": "sponsors/logos/nexus.jpeg",
- //  "what": "Barista"
- // },
- //  {"name": "OASIS ID Trust",
- //  "url": "http://www.oasis-idtrust.org/",
- //  "logo": "sponsors/logos/idtrust-logo.png",
- //  "what": "Indian Lunch"
  // },
  // {"name": "SailPoint Technologies",
  //  "url": "https://www.sailpoint.com/",
@@ -170,12 +162,7 @@ var sponsors = [
  //  "url": "http://www.covisint.com/",
  //  "logo": "sponsors/logos/covisint-logo.png",
  //  "what": "Lightening Demos"
- // },
- // {"name": "AVG",
- //  "url": "https://www.avg.com/",
- //  "logo": "sponsors/logos/avg-icon.png",
- //  "what": "Morning Breaks"
- // },
+    // }    // 
  // {"name": "Welcomer",
  //  "url": "http://www.welcomer.me",
  //  "logo": "sponsors/logos/welcomer-logo.png",
