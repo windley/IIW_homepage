@@ -57,15 +57,25 @@ var sponsors = [
     //  "logo": "sponsors/logos/big.png",
     //  "what": "Lunch"
     // },
+    // {"name": "BIG",
+    //  "url": "http://bigfintechmedia.com/",
+    //  "logo": "sponsors/logos/big.png",
+    //  "what": "Lunch"
+    // },
+    {"name": "IEEE",
+     "url": "http://ieee.org/",
+     "logo": "sponsors/logos/ieee.jpg",
+     "what": "Lunch"
+    },
     // {"name": "Oracle",
- //  "url": "https://oracle.com/",
+    //  "url": "https://oracle.com/",
  //  "logo": "sponsors/logos/oracle.png",
  //  "what": "Lunch"
  // },
     {"name": "IBM",
      "url": "https://ibm.com/",
      "logo": "sponsors/logos/ibm.png",
-     "what": "Conference Reception"
+     "what": "Tuesday Reception"
     },
    //  {"name": "Login with Amazon",
    //   "url": "http://login.amazon.com/",
