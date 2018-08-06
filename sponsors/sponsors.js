@@ -37,16 +37,16 @@ var sponsors = [
     //  "logo": "sponsors/logos/logo_kantara.gif",
     //  "what": "Projectors"
     // },
-    // {"name": "Gigya",
-    //  "url": "http://www.gigya.com",
-    //  "logo": "sponsors/logos/gigya.jpg",
-    //  "what": "Power and Tables"
-    // },
-    // {"name": "Sovrin Foundation",
-    //  "url": "http://www.sovrin.org",
-    //  "logo": "sponsors/logos/sovrin.png",
-    //  "what": "Premiere Lunch"
-    // },
+    {"name": "AWS",
+     "url": "http://aws.amazon.com",
+     "logo": "sponsors/logos/aws-logo.png",
+     "what": "Power and Tables"
+    },
+    {"name": "Sovrin Foundation",
+     "url": "http://www.sovrin.org",
+     "logo": "sponsors/logos/sovrin.png",
+     "what": "Premiere Lunch"
+    },
     // {"name": "ForgeRock",
     //  "url": "https://www.forgerock.com/",
     //  "logo": "sponsors/logos/forgerock.png",
@@ -72,7 +72,12 @@ var sponsors = [
    //   "logo": "sponsors/logos/login_with_amazon.png",
    //   "what": "Tuesday Reception"
    // },
-   //  {"name": "digi.me",         // 
+     {"name": "digi.me",         // 
+      "url": "https://digi.me",
+      "logo": "sponsors/logos/digi.me-logo.png",
+      "what": "Tech Fair"
+     },
+  //  {"name": "digi.me",         // 
    //   "url": "https://digi.me",
    //   "logo": "sponsors/logos/digi.me-logo.png",
    //   "what": "Demo Hour"
