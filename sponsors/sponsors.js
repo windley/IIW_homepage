@@ -10,6 +10,11 @@ var sponsors = [
      "logo": "sponsors/logos/googlelogo_light_clr_160x56pxx.png",
      "what": " " 
     },
+    {"name": "Wireline",
+     "url": "http://www.google.com",
+     "logo": "sponsors/logos/wireline.png",
+     "what": "Tuesday Dinner" 
+    },
     // {"name": "City of Osmio",
     //  "url": "http://www.osmio.ch/",
     //  "logo": "sponsors/logos/osmio-seal.png",
@@ -82,6 +87,11 @@ var sponsors = [
    //   "logo": "sponsors/logos/login_with_amazon.png",
    //   "what": "Tuesday Reception"
    // },
+    {"name": "Wireline",
+     "url": "http://www.google.com",
+     "logo": "sponsors/logos/wireline.png",
+     "what": "Demo Hour" 
+    },
      {"name": "digi.me",         // 
       "url": "https://digi.me",
       "logo": "sponsors/logos/digi.me-logo.png",
