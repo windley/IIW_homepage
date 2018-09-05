@@ -167,12 +167,12 @@ var sponsors = [
      "url": "https://www.veridiumid.com/",
      "logo": "sponsors/logos/veridium.png",
      "what": "Gifting"
-    }
+    },
     {"name": "Internet Bar Institute",
      "url": "http://www.internetbar.org/",
      "logo": "sponsors/logos/ibo-logo.jpg",
      "what": "Gifting"
-    },
+    }
  // {"name": "Mozilla Foundation",
  //  "url": "https://www.mozilla.org",
  //  "logo": "sponsors/logos/mozilla_wordmark.png",
