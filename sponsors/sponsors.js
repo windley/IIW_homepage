@@ -147,11 +147,6 @@ var sponsors = [
     //  "logo": "sponsors/logos/cirrusidentity.png",
     //  "what": "Doc Center"
     // },
-    // {"name": "Internet Bar Institute",
-    //  "url": "http://www.internetbar.org/",
-    //  "logo": "sponsors/logos/ibo-logo.jpg",
-    //  "what": "Doc Center"
-    // }
  // {"name": "Constellation Research",
  //  "url": "https://www.constellationr.com",
  //  "logo": "sponsors/logos/constellation-logo.png",
@@ -173,6 +168,11 @@ var sponsors = [
      "logo": "sponsors/logos/veridium.png",
      "what": "Gifting"
     }
+    {"name": "Internet Bar Institute",
+     "url": "http://www.internetbar.org/",
+     "logo": "sponsors/logos/ibo-logo.jpg",
+     "what": "Gifting"
+    },
  // {"name": "Mozilla Foundation",
  //  "url": "https://www.mozilla.org",
  //  "logo": "sponsors/logos/mozilla_wordmark.png",
