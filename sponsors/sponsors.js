@@ -13,7 +13,7 @@ var sponsors = [
     {"name": "Wireline",
      "url": "http://www.google.com",
      "logo": "sponsors/logos/wireline.png",
-     "what": "Tuesday Dinner" 
+     "what": "Welcome Dinner" 
     },
     // {"name": "City of Osmio",
     //  "url": "http://www.osmio.ch/",
@@ -52,6 +52,11 @@ var sponsors = [
      "logo": "sponsors/logos/sovrin.png",
      "what": "Premiere Lunch"
     },
+     {"name": "Payfone",
+      "url": "http://payfone.com/",
+      "logo": "sponsors/logos/payfone.png",
+      "what": "Tuesday Reception"
+    },
     // {"name": "ForgeRock",
     //  "url": "https://www.forgerock.com/",
     //  "logo": "sponsors/logos/forgerock.png",
@@ -82,11 +87,6 @@ var sponsors = [
      "logo": "sponsors/logos/ibm.png",
      "what": "Tuesday Reception"
     },
-   //  {"name": "Login with Amazon",
-   //   "url": "http://login.amazon.com/",
-   //   "logo": "sponsors/logos/login_with_amazon.png",
-   //   "what": "Tuesday Reception"
-   // },
     {"name": "Wireline",
      "url": "http://www.google.com",
      "logo": "sponsors/logos/wireline.png",
@@ -112,16 +112,16 @@ var sponsors = [
 //   "logo": "sponsors/logos/auth0-logo-blue.png?foo=1",
 //   "what": "Opening Reception"
 //  },
-    // {"name": "Yubico",
-    //  "url": "https://www.yubico.com/", 
-    //  "logo": "sponsors/logos/yubico.png",
-    //  "what": "Breakfast"
-    // },
     {"name": "Evernym",
       "url": "http://www.evernym.com",
       "logo": "sponsors/logos/evernym.png",
       "what": "Breakfast"
      },
+    {"name": "Yubico",
+     "url": "https://www.yubico.com/", 
+     "logo": "sponsors/logos/yubico.png",
+     "what": "Breakfast"
+    },
     // {"name": "Identity.com",       // 
     //  "url": "http://www.identity.com",
     //  "logo": "sponsors/logos/iD_logo_vertical.png",
