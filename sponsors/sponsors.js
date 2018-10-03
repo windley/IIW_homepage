@@ -55,7 +55,7 @@ var sponsors = [
      {"name": "Payfone",
       "url": "http://payfone.com/",
       "logo": "sponsors/logos/payfone.png",
-      "what": "Tuesday Reception"
+      "what": "Conference Reception"
     },
     // {"name": "ForgeRock",
     //  "url": "https://www.forgerock.com/",
