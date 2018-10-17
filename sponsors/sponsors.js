@@ -31,11 +31,6 @@ var sponsors = [
      "logo": "sponsors/logos/culedger.png",
      "what": "Projectors"
     },
-    // {"name": "Hyperledger",
-    //  "url": "https://hyperledger.org/",
-    //  "logo": "sponsors/logos/Hyperledger_Logo_Tagline.png",
-    //  "what": "Projectors"
-    //},
     // {"name": "Kantara",
     //  "url": "https://kantarainitiative.org/",
 
@@ -122,7 +117,12 @@ var sponsors = [
      "logo": "sponsors/logos/yubico.png",
      "what": "Breakfast"
     },
-    // {"name": "Identity.com",       // 
+    {"name": "Hyperledger",
+     "url": "https://hyperledger.org/",
+     "logo": "sponsors/logos/Hyperledger_Logo_Tagline.png",
+     "what": "Breakfast"
+    },
+    // {"name": "Identity.com",  
     //  "url": "http://www.identity.com",
     //  "logo": "sponsors/logos/iD_logo_vertical.png",
     //  "what": "Afternoon Break"
